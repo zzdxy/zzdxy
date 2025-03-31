@@ -4,7 +4,7 @@ import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { readmorePlugin } from 'vuepress-plugin-readmore-popular-next'
 
 export default defineUserConfig({
-  base: "/",
+  base: "/zzdxy",
 
   lang: "zh-CN",
   title: "JavaPark",
