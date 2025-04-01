@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://cunyu1943.github.io/zzdxy/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://zzdxy.github.io/zzdxy/zzdxy/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://cunyu1943.github.io/zzdxy/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>JavaPark</title>
-    <link>https://cunyu1943.github.io/zzdxy/</link>
-    <description>分享编程学习（侧重 Java）、面试求职、计算机基础、效率工具等方面内容。</description>
+    <atom:link href="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>saltfish</title>
+    <link>https://zzdxy.github.io/zzdxy/zzdxy/</link>
+    <description>分享编程学习、面试求职、计算机基础、效率工具等方面内容</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 31 Mar 2025 05:54:05 GMT</pubDate>
-    <lastBuildDate>Mon, 31 Mar 2025 05:54:05 GMT</lastBuildDate>
+    <pubDate>Tue, 01 Apr 2025 03:55:55 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Apr 2025 03:55:55 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>你问我答</category>
@@ -20,16 +20,15 @@
     <category>Redis 教程</category>
     <category>Spring 系列</category>
     <category>求职面试</category>
-    <category>C 语言教程</category>
-    <category>C++ 系列</category>
     <category>Web 前端教程</category>
     <category>Java 基础</category>
+    <category>Java 基础系列</category>
     <item>
       <title></title>
-      <link>https://cunyu1943.github.io/zzdxy/frontmatter.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/frontmatter.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml"></source>
-      <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 ⏳ 联系 想解锁更多知识？不妨关注我的微信公众号：村雨遥（id：JavaPark）。 扫一扫，探索另一个全新的世界。</description>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/frontmatter.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/frontmatter.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml"></source>
+      <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 ⏳ 联系 想解锁更多知识？不妨关注我的微信公众号：挣扎的咸鱼（id：saltfish）。 扫一扫，探索另一个全新的世界。</description>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">共勉</p>
@@ -39,25 +38,25 @@
 <p class="hint-container-title">原文</p>
 </div>
 <h2> ⏳ 联系</h2>
-<p>想解锁更多知识？不妨关注我的微信公众号：<strong>村雨遥（id：JavaPark）</strong>。</p>
+<p>想解锁更多知识？不妨关注我的微信公众号：<strong>挣扎的咸鱼（id：saltfish）</strong>。</p>
 <p>扫一扫，探索另一个全新的世界。</p>
 <figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 ]]></content:encoded>
-      <enclosure url="https://cunyu1943.github.io/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
     </item>
     <item>
-      <title>JavaPark | 编程知识公园 🔥</title>
-      <link>https://cunyu1943.github.io/zzdxy/guide.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/guide.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">JavaPark | 编程知识公园 🔥</source>
-      <description>⏰ 在阅读本博客内容时，若遇到任何内容、代码、图片等有关错误，都可以提交 issues 或者 PR 的方式进行勘误反馈，我会陆续进行完善改进，感谢支持。 issues: https://github.com/cunyu1943/JavaPark/issues; PR: https://github.com/cunyu1943/JavaPark/pull...</description>
+      <title>zzdxy | 编程知识公园 🔥</title>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/guide.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/guide.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">zzdxy | 编程知识公园 🔥</source>
+      <description>⏰ 在阅读本博客内容时，若遇到任何内容、代码、图片等有关错误，都可以提交 issues 或者 PR 的方式进行勘误反馈，我会陆续进行完善改进，感谢支持。 issues: https://github.com/zzdxy/zzdxy/issues; PR: https://github.com/zzdxy/zzdxy/pulls，仅需在文章的末尾找到 在...</description>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
       <content:encoded><![CDATA[<p>⏰ 在阅读本博客内容时，若遇到任何内容、代码、图片等有关错误，都可以提交 <strong>issues</strong> 或者 <strong>PR</strong> 的方式进行勘误反馈，我会陆续进行完善改进，感谢支持。</p>
 <ul>
-<li>issues: <code>https://github.com/cunyu1943/JavaPark/issues</code></li>
-<li>PR: <code>https://github.com/cunyu1943/JavaPark/pulls</code>，仅需在文章的末尾找到 <strong>在 GitHub 上编辑此页</strong>，即可完成克隆和提交 <code>PR</code>。</li>
-<li>本站为整理公众号文章的知识库，关注公众号：<a href="https://cunyu1943.gitee.io/contact/wechatpublic.svg" target="_blank" rel="noopener noreferrer">村雨遥</a> 及时获取最新推文，避免错过最近更新。</li>
-<li>此外，如果在学习本站内容有疑惑的地方，还可以通过微信：<code>coder_cunYu</code> 联系我，备注 <strong>加群</strong>，拉你进技术交流群！</li>
+<li>issues: <code>https://github.com/zzdxy/zzdxy/issues</code></li>
+<li>PR: <code>https://github.com/zzdxy/zzdxy/pulls</code>，仅需在文章的末尾找到 <strong>在 GitHub 上编辑此页</strong>，即可完成克隆和提交 <code>PR</code>。</li>
+<li>本站为整理公众号文章的知识库，关注公众号：<a href="https://zzdxy.gitee.io/contact/wechatpublic.svg" target="_blank" rel="noopener noreferrer">郴城信息</a> 及时获取最新推文，避免错过最近更新。</li>
+<li>此外，如果在学习本站内容有疑惑的地方，还可以通过微信：<code>8698305</code> 联系我，备注 <strong>加群</strong>，拉你进技术交流群！</li>
 </ul>
 <figure><img src="/contact/contact.svg" alt="" width="200" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <hr>
@@ -73,13 +72,13 @@
 <h2> 八、好物周刊</h2>
 <h2> 九、关于</h2>
 ]]></content:encoded>
-      <enclosure url="https://cunyu1943.github.io/zzdxy/contact/contact.svg =200x" type="image/"/>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/contact/contact.svg =200x" type="image/"/>
     </item>
     <item>
       <title>想学好 Java 基础，应该去哪儿刷题</title>
-      <link>https://cunyu1943.github.io/zzdxy/QA/20230402-where-exercise-java-basics.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/QA/20230402-where-exercise-java-basics.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">想学好 Java 基础，应该去哪儿刷题</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/QA/20230402-where-exercise-java-basics.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/QA/20230402-where-exercise-java-basics.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">想学好 Java 基础，应该去哪儿刷题</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 一、前言 其实无论是哪门编程语言，只要把相关语法掌握之后，更重要的是一些算法、编程思想的提高。 既然已经对 Java 有了一定的了解了，那肯定基本语法没啥问题了，那在这里就提名几个常用的刷题网站，用来巩固 Java 基础的同时锻炼自己的编程思想，提高自己的编程能力！ 二、网站 1. 牛客网 牛客网 (ht...</description>
       <category>你问我答</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -157,20 +156,20 @@
 <p>扫一扫，探索另一个全新的世界。</p>
 <figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 ]]></content:encoded>
-      <enclosure url="https://cunyu1943.github.io/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
     </item>
     <item>
       <title>你问我答</title>
-      <link>https://cunyu1943.github.io/zzdxy/QA/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/QA/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">你问我答</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/QA/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/QA/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">你问我答</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>关于</title>
-      <link>https://cunyu1943.github.io/zzdxy/about/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/about/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">关于</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/about/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/about/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">关于</source>
       <description>关于自己 关于学习 关于工作 git config --global user.name &amp;quot;zzdxy&amp;quot; git config --global user.email &amp;quot;jiefav@163.com&amp;quot;</description>
       <category>关于</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -183,9 +182,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>计算机知识</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">计算机知识</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">计算机知识</source>
       <description>组成原理 操作系统 计算机网络 数据结构与算法 1. 数据结构与算法：数据结构简介 (algo/20220503-datastructure-intro.md) 2. 数据结构与算法：算法简介 (algo/20220511-algo-intro.md) 3. 数据结构与算法：时间 &amp; 空间复杂度 (algo/20220512-time-space.md...</description>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 组成原理</h2>
@@ -206,9 +205,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>框架｜中间件</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">框架｜中间件</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">框架｜中间件</source>
       <description>Spring 1. Spring 系列：简介 (spring/20200720-intro.md) 2. Spring 系列：依赖注入 (spring/20200724-di.md) 3. Spring 系列：注解详解 (spring/20210521-annotation.md) 4. Spring 系列：IoC 大揭秘 (spring/202007...</description>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Spring</h2>
@@ -262,9 +261,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>求职面试</title>
-      <link>https://cunyu1943.github.io/zzdxy/interview/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/interview/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">求职面试</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/interview/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/interview/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">求职面试</source>
       <description>知识点 1. Java 基础面试知识点 (knowledge/20240201-java-basic.md) 2. Java 进阶面试知识点 (knowledge/20240203-java-advanced.md) 3. MySQL 面试知识点 (knowledge/20240203-mysql.md) 4. MyBatis 面试知识点 (knowl...</description>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 知识点</h2>
@@ -283,54 +282,10 @@ git config --global user.email "jiefav@163.com"</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>编程语言</title>
-      <link>https://cunyu1943.github.io/zzdxy/program-language/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/program-language/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">编程语言</source>
-      <description>C 语言 1. C 语言：内存管理函数 (c/20180308-memory-manage.md) 2. C 语言：知识点总结 (c/20180720-summary.md) C++ 1. C++ 系列：知识点总结 (cpp/20180720-summary.md) Python 教程 1. Python 教程：简介 (python/tutorial/...</description>
-      <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> C 语言</h2>
-<ol>
-<li><a href="/zzdxy/program-language/c/20180308-memory-manage.html" target="blank">C 语言：内存管理函数</a></li>
-<li><a href="/zzdxy/program-language/c/20180720-summary.html" target="blank">C 语言：知识点总结</a></li>
-</ol>
-<h2> C++</h2>
-<ol>
-<li><a href="/zzdxy/program-language/cpp/20180720-summary.html" target="blank">C++ 系列：知识点总结</a></li>
-</ol>
-<h2> Python</h2>
-<h3> 教程</h3>
-<ol>
-<li><a href="/zzdxy/program-language/python/tutorial/20210331-intro.html" target="blank">Python 教程：简介</a></li>
-<li><a href="/zzdxy/program-language/python/tutorial/20210401-pycharm.html" target="blank">Python 教程：玩转 Pycharm</a></li>
-<li><a href="/zzdxy/program-language/python/tutorial/20210402-language-element.html" target="blank">Python 教程：语言元素</a></li>
-<li><a href="/zzdxy/program-language/python/tutorial/20210403-condition.html" target="blank">Python 教程：条件判断、循环以及循环的终止</a></li>
-<li><a href="/zzdxy/program-language/python/tutorial/20220420-shopping.html" target="blank">Python 教程：购物车</a></li>
-<li><a href="/zzdxy/program-language/python/tutorial/20180429-turtle.html" target="blank">Python 教程：turtle 库使用</a></li>
-<li><a href="/zzdxy/program-language/python/tutorial/20180501-digital-time.html" target="blank">Python 教程：数码管绘制</a></li>
-<li><a href="/zzdxy/program-language/python/tutorial/20220421-polyglot-install.html" target="blank">Python 教程：Python 3.7 安装 polyglot 失败</a></li>
-</ol>
-<h3> 编程实例</h3>
-<ol>
-<li><a href="/zzdxy/program-language/python/instance/20181003-1-5.html" target="blank">编程实例（1 - 5）</a></li>
-<li><a href="/zzdxy/program-language/python/instance/20181004-6-10.html" target="blank">编程实例（6 - 10）</a></li>
-<li><a href="/zzdxy/program-language/python/instance/20181005-11-15.html" target="blank">编程实例（11 - 15）</a></li>
-<li><a href="/zzdxy/program-language/python/instance/20181006-16-20.html" target="blank">编程实例（16 - 20）</a></li>
-<li><a href="/zzdxy/program-language/python/instance/20181007-21-25.html" target="blank">编程实例（21 - 25）</a></li>
-<li><a href="/zzdxy/program-language/python/instance/20181008-26-30.html" target="blank">编程实例（26 - 30）</a></li>
-<li><a href="/zzdxy/program-language/python/instance/20181009-31-35.html" target="blank">编程实例（31 - 35）</a></li>
-<li><a href="/zzdxy/program-language/python/instance/20181010-36-40.html" target="blank">编程实例（36 - 40）</a></li>
-<li><a href="/zzdxy/program-language/python/instance/20181011-41-45.html" target="blank">编程实例（41 - 45）</a></li>
-<li><a href="/zzdxy/program-language/python/instance/20181012-46-50.html" target="blank">编程实例（46 - 50）</a></li>
-<li><a href="/zzdxy/program-language/python/instance/20181013-51-55.html" target="blank">编程实例（51 - 55）</a></li>
-</ol>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Java</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Java</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Java</source>
       <description>Java 基础 1. Java 基础：简介 (javase/20220701-intro-to-java.md) 2. Java 基础：开发环境搭建及入门程序 (javase/20220702-jdk-install-and-hello-world.md) 3. Java 基础：利用 IDEA 进行 Java 开发 (javase/20220703-l...</description>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Java 基础</h2>
@@ -414,10 +369,54 @@ git config --global user.email "jiefav@163.com"</p>
 ]]></content:encoded>
     </item>
     <item>
+      <title>编程语言</title>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/program-language/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/program-language/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">编程语言</source>
+      <description>C 语言 1. C 语言：内存管理函数 (c/20180308-memory-manage.md) 2. C 语言：知识点总结 (c/20180720-summary.md) C++ 1. C++ 系列：知识点总结 (cpp/20180720-summary.md) Python 教程 1. Python 教程：简介 (python/tutorial/...</description>
+      <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> C 语言</h2>
+<ol>
+<li><a href="/zzdxy/program-language/c/20180308-memory-manage.html" target="blank">C 语言：内存管理函数</a></li>
+<li><a href="/zzdxy/program-language/c/20180720-summary.html" target="blank">C 语言：知识点总结</a></li>
+</ol>
+<h2> C++</h2>
+<ol>
+<li><a href="/zzdxy/program-language/cpp/20180720-summary.html" target="blank">C++ 系列：知识点总结</a></li>
+</ol>
+<h2> Python</h2>
+<h3> 教程</h3>
+<ol>
+<li><a href="/zzdxy/program-language/python/tutorial/20210331-intro.html" target="blank">Python 教程：简介</a></li>
+<li><a href="/zzdxy/program-language/python/tutorial/20210401-pycharm.html" target="blank">Python 教程：玩转 Pycharm</a></li>
+<li><a href="/zzdxy/program-language/python/tutorial/20210402-language-element.html" target="blank">Python 教程：语言元素</a></li>
+<li><a href="/zzdxy/program-language/python/tutorial/20210403-condition.html" target="blank">Python 教程：条件判断、循环以及循环的终止</a></li>
+<li><a href="/zzdxy/program-language/python/tutorial/20220420-shopping.html" target="blank">Python 教程：购物车</a></li>
+<li><a href="/zzdxy/program-language/python/tutorial/20180429-turtle.html" target="blank">Python 教程：turtle 库使用</a></li>
+<li><a href="/zzdxy/program-language/python/tutorial/20180501-digital-time.html" target="blank">Python 教程：数码管绘制</a></li>
+<li><a href="/zzdxy/program-language/python/tutorial/20220421-polyglot-install.html" target="blank">Python 教程：Python 3.7 安装 polyglot 失败</a></li>
+</ol>
+<h3> 编程实例</h3>
+<ol>
+<li><a href="/zzdxy/program-language/python/instance/20181003-1-5.html" target="blank">编程实例（1 - 5）</a></li>
+<li><a href="/zzdxy/program-language/python/instance/20181004-6-10.html" target="blank">编程实例（6 - 10）</a></li>
+<li><a href="/zzdxy/program-language/python/instance/20181005-11-15.html" target="blank">编程实例（11 - 15）</a></li>
+<li><a href="/zzdxy/program-language/python/instance/20181006-16-20.html" target="blank">编程实例（16 - 20）</a></li>
+<li><a href="/zzdxy/program-language/python/instance/20181007-21-25.html" target="blank">编程实例（21 - 25）</a></li>
+<li><a href="/zzdxy/program-language/python/instance/20181008-26-30.html" target="blank">编程实例（26 - 30）</a></li>
+<li><a href="/zzdxy/program-language/python/instance/20181009-31-35.html" target="blank">编程实例（31 - 35）</a></li>
+<li><a href="/zzdxy/program-language/python/instance/20181010-36-40.html" target="blank">编程实例（36 - 40）</a></li>
+<li><a href="/zzdxy/program-language/python/instance/20181011-41-45.html" target="blank">编程实例（41 - 45）</a></li>
+<li><a href="/zzdxy/program-language/python/instance/20181012-46-50.html" target="blank">编程实例（46 - 50）</a></li>
+<li><a href="/zzdxy/program-language/python/instance/20181013-51-55.html" target="blank">编程实例（51 - 55）</a></li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
       <title>基础教程</title>
-      <link>https://cunyu1943.github.io/zzdxy/tutorial/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/tutorial/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">基础教程</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/tutorial/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/tutorial/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">基础教程</source>
       <description>博客搭建 1. 博客搭建：Vuepress + GitHub Actions 实现博客自动部署 (blog/20210826-vuepress.md) 2. 博客搭建：Hexo + Github Pages 博客搭建教程 (blog/20220401-hexo.md) 3. 博客搭建：dumi 博客搭建 (blog/20220610-dumi.md) ...</description>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 博客搭建</h2>
@@ -472,9 +471,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>创刊寄语</title>
-      <link>https://cunyu1943.github.io/zzdxy/weekly/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/weekly/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">创刊寄语</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/weekly/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/weekly/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">创刊寄语</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 一、前言 村雨遥的好物周刊，记录每周看到的有价值的信息，主要针对计算机领域，每周五发布。专栏目的在于记录让自己有印象的信息做一个备份及分享，阅读渠道如下： 博客 (https://cunyu1943.github.io/) | 博客(国内) (https://cunyu1943.gitee.io/); J...</description>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 创刊寄语</h1>
@@ -513,34 +512,34 @@ git config --global user.email "jiefav@163.com"</p>
 </li>
 </ol>
 ]]></content:encoded>
-      <enclosure url="https://cunyu1943.github.io/zzdxy/award/donate.jpg =150x" type="image/"/>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/award/donate.jpg =150x" type="image/"/>
     </item>
     <item>
       <title>关于工作</title>
-      <link>https://cunyu1943.github.io/zzdxy/about/job/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/about/job/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">关于工作</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/about/job/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/about/job/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">关于工作</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>关于自己</title>
-      <link>https://cunyu1943.github.io/zzdxy/about/me/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/about/me/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">关于自己</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/about/me/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/about/me/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">关于自己</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>关于学习</title>
-      <link>https://cunyu1943.github.io/zzdxy/about/study/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/about/study/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">关于学习</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/about/study/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/about/study/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">关于学习</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>数组的增删改查</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20200510-arr-crud.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20200510-arr-crud.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">数组的增删改查</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20200510-arr-crud.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20200510-arr-crud.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">数组的增删改查</source>
       <description>一、前言 作为重要的线性数据结构， 我们经常会跟数组打交道。所谓数组，就是一系列相同数据类型元素的集合，数据类型可以是 int、`float、String、类……。而对数组的增删改查则是日常用到的操作。为了弄清楚这些常用操作，此博客则对这些操作进行一一梳理。 二、数组简介 1. 如何创建数组 我们以 Java 中创建数组为例，创建语法如下： 其中各个字...</description>
       <category>数据结构与算法</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -611,9 +610,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>数据结构简介</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20220503-datastructure-intro.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20220503-datastructure-intro.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">数据结构简介</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20220503-datastructure-intro.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20220503-datastructure-intro.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">数据结构简介</source>
       <description>什么是数据结构 在开始正式学习数据结构前，咱们先来看看什么是数据。所谓数据，就是用来描述客观事物的符号，在计算机中就是可以操作的对象，能够被计算机识别并输入给计算机处理的符号集合。数据不仅包括整型、浮点型等数值类型，还包括字符、声音、图像、视频等非数值型类型。 而数据元素就是组成数据的、有一定意义的基本单位，在计算机中一般作为整体来处理，而这些数据元素...</description>
       <category>数据结构与算法</category>
       <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
@@ -693,9 +692,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>算法简介</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20220511-algo-intro.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20220511-algo-intro.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">算法简介</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20220511-algo-intro.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20220511-algo-intro.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">算法简介</source>
       <description>什么是算法 什么是算法？简单来讲，算法就是用于描述解决问题的方法。而现今普遍对算法的定义为：解决特定问题求解步骤的描述，在计算机中表现为指令的有限序列，并且每条指令含有一个或多个操作。 算法的特性 算法具有五个基本特性，分别是： 输入; 输出; 有穷性; 确定性; 可行性; 1. 输入 &amp; 输出 一个算法，必不可少的是输入输出。算法具有零个或者多个输入...</description>
       <category>数据结构与算法</category>
       <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
@@ -905,9 +904,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>时间 &amp; 空间复杂度</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20220512-time-space.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20220512-time-space.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">时间 &amp; 空间复杂度</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20220512-time-space.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20220512-time-space.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">时间 &amp; 空间复杂度</source>
       <description>前言 所谓算法，其实就是我们用来操作数据、解决程序问题的一组方法。针对同一个问题，我们可以采用不同的算法，然后实现相同的结果。但是针对不同的算法，对于时间和资源的消耗却有不同的差别。而为了分析不同算法的效率，我们常常从 时间 和 空间 两个方面来对比，然后从中挑出最适合我们的解决方案。 本文主要从时间复杂度和空间复杂度的定义说起，然后介绍常见的时间复杂...</description>
       <category>数据结构与算法</category>
       <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
@@ -1060,9 +1059,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>有序数组去重</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20220513-sorted-arr-duplication.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20220513-sorted-arr-duplication.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">有序数组去重</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20220513-sorted-arr-duplication.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20220513-sorted-arr-duplication.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">有序数组去重</source>
       <description>问题 给定一个有序数组，要删除数组重复出现的元素，使得每个元素只出现一次，然后返回移除重复数组后的新长度； 示例： 假设给定一个数组 nums = [1,2,4,4]，删除重复出现的元素 4 后，原数组变成 nums = [1, 2, 4]，此时新的数组长度为 3； 解决思路 数组原地操作 数组原地操作，此时无需创建新的数组，只需要在原来的数组上操作即...</description>
       <category>数据结构与算法</category>
       <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
@@ -1093,9 +1092,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>链表解惑</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20220515-linkedlist.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20220515-linkedlist.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">链表解惑</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20220515-linkedlist.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20220515-linkedlist.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">链表解惑</source>
       <description>前言 链表是一种 递归 的数据结构，或者为空 null，或者指向一个结点（node）的引用，一个结点含有 一个泛型元素和一个指向另一条链表的引用。 通常分为如下三种类型： 单向链表：结点被分成两个部分。第一个部分保存或者显示关于结点的信息，第二个部分存储下一个结点的地址，只能向一个方向遍历。; 双向链表：每个数据结点中都有两个指针，分别指向直接后继和直...</description>
       <category>数据结构与算法</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -1150,9 +1149,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>数组详解</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20220516-array.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/20220516-array.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">数组详解</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20220516-array.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/20220516-array.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">数组详解</source>
       <description>1. 数组简介 数组（Array）是一种 线性表（将数据排成一条线一样的结构） 数据结构，用一组 连续内存空间 来存储一组具有 相同类型 的数据。 2. 数组的常见操作 数组最常见的操作无非增删改差，下面分别来对各个操作进行介绍，假设数组类的定义如下： 2.1 按照下标随机访问操作 要实现随机访问，那么需要先看访问的下标位置是否合法，不合法则访问失败，...</description>
       <category>数据结构与算法</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -1185,9 +1184,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>二叉树的遍历</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/202205170-binary-tree-traverse.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/202205170-binary-tree-traverse.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">二叉树的遍历</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/202205170-binary-tree-traverse.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/202205170-binary-tree-traverse.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">二叉树的遍历</source>
       <description>前言 二叉树作为一种重要的数据结构，在算法中起到了承前启后的作用，它是数组和链表的延伸，也是图的基础。所以学习二叉树的相关知识是十分有必要的，而在相关的操作中，二叉树的遍历是最频繁的，今天就来看看二叉树的 4 种遍历方法！ 二叉树数据结构 所谓二叉树，指的是每个结点最多有两个分支的树结构，其分支通常被称为“左子树”和“右子树”，而且他们的次序是固定的，...</description>
       <category>数据结构与算法</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -1223,37 +1222,37 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>数据结构与算法</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/algo/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">数据结构与算法</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/algo/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">数据结构与算法</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>组成原理</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/composition/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/composition/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">组成原理</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/composition/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/composition/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">组成原理</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>计算机网络</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/network/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/network/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">计算机网络</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/network/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/network/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">计算机网络</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>操作系统</title>
-      <link>https://cunyu1943.github.io/zzdxy/cs-wiki/system/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/cs-wiki/system/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">操作系统</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/system/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/cs-wiki/system/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">操作系统</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>简介</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/maven/20200707-intro.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/maven/20200707-intro.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">简介</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/maven/20200707-intro.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/maven/20200707-intro.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">简介</source>
       <description>前言 在我们之前的开发过程中，往往会遇到以下问题： 一个项目就是一个工程，当项目过大时，难以管理；; 项目中的 jar 包（也就是我们的依赖文件），需要我们手动进行移动到 Web 项目的 WEB-INF/lib 目录中；; jar 一般是通过下载或其他人打包后获取；; 各个 jar 包之间繁琐的依赖关系需要我们自行解决；; 针对以上的问题，我们提出采用...</description>
       <category>Maven 系列</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -1340,9 +1339,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>常用命令</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/maven/20200708-command.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/maven/20200708-command.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">常用命令</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/maven/20200708-command.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/maven/20200708-command.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">常用命令</source>
       <description>前言 上一篇文章中我们已经介绍了什么是 Maven，以及如何进行 Maven 的安装，最后还对 Maven 安装后的简单配置进行了讲解。今天我们就主要来看看 Maven 中的核心概念以及 Maven 在日常使用中常用的命令。 Maven 核心 构建 所谓构建，就是指项目的构建，它是面向过程的，是一系列步骤的总和，主要包括项目代码的编译、运行、测试、打包...</description>
       <category>Maven 系列</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -1452,9 +1451,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>仓库、坐标及依赖管理</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/maven/20200709-pom.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/maven/20200709-pom.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">仓库、坐标及依赖管理</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/maven/20200709-pom.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/maven/20200709-pom.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">仓库、坐标及依赖管理</source>
       <description>前言 在我们创建使用 Maven 项目的过程中，当需要用到第三方的插件时，都是通过依赖管理来达成，也就是 Maven 项目中必有的 pom.xml 文件。POM（Project Object Model），即 项目对象模型，其中定义了 Maven 项目的形式。因此，pom.xml 可以看做是 Maven 项目中的导航。 Maven 仓库 所谓仓库，就和...</description>
       <category>Maven 系列</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -1557,9 +1556,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>IDEA 创建 Maven 项目</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/maven/20200710-idea-maven.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/maven/20200710-idea-maven.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">IDEA 创建 Maven 项目</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/maven/20200710-idea-maven.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/maven/20200710-idea-maven.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">IDEA 创建 Maven 项目</source>
       <description>前言 之前我们已经学习过 Maven 是什么，我们可以用它来干什么。接着我们又介绍了如何安装和配置 Maven，再接着，我们又了解了 Maven 中常用的一些命令以及如何利用 Archetype 来生成项目骨架，并对利用 Maven 所生成项目的结构进行了描述。最后则是 Maven 中的一些核心概念和如何进行依赖管理，并说明当依赖产生冲突时，应该如何解...</description>
       <category>Maven 系列</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -1615,16 +1614,16 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>Maven</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/maven/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/maven/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Maven</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/maven/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/maven/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Maven</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>简介</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/mybatis/20200719-intro.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/mybatis/20200719-intro.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">简介</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis/20200719-intro.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis/20200719-intro.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">简介</source>
       <description>前言 什么是持久化 持久化是将程序数据在持久状态和瞬时状态间转换的机制，将数据保存到可永久保存的存储设备中。最常见的就是将内存中的对象存储在数据库中，或者存在磁盘文件、XML 数据文件中等等。其中，文件 IO 属于持久化机制，而 JDBC 也是一种持久化机制。 为什么需要持久化 之所以需要持久化，是由于内存自身缺陷导致。我们知道，内存在遇到某些外界因素...</description>
       <category>MyBatis 系列</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -1696,9 +1695,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>入门实例</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/mybatis/20200720-quick-start.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/mybatis/20200720-quick-start.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">入门实例</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis/20200720-quick-start.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis/20200720-quick-start.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">入门实例</source>
       <description>前言 上一篇文章中我们讲了什么是持久化以及 Mybatis 的相关简介，今天就来看看如何创建一个 Mybatis 入门实例以及如何利用 Mybatis 进行 CRUD。 数据库准备 1. 首先，我们来创建一个数据库，用于后序步骤的使用； 2. 接着创建一个表，用于存放数据； 3. 向数据库中插入数据 创建 Maven 工程 1. 对于如何创建 Mave...</description>
       <category>MyBatis 系列</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -1790,9 +1789,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>注解开发</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/mybatis/20200721-annotation.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/mybatis/20200721-annotation.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">注解开发</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis/20200721-annotation.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis/20200721-annotation.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">注解开发</source>
       <description>1. MyBatis 注解 之前的实例中，利用 MyBatis 进行开发时，一旦添加新的方法，则每次都需要在 XML 配置文件中进行映射。而现在随着注解开发的大肆流行，MyBatis 3 也提供了基于注解的配置。但是通过注解的方式表达力和灵活性有限，必要时要是需要通过 mapper 配置文件来进行构建，常用的注解主要用如下几个： 注解 功能 -----...</description>
       <category>MyBatis 系列</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -1934,9 +1933,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>一二级缓存</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/mybatis/20200722-pri-sec-cache.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/mybatis/20200722-pri-sec-cache.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">一二级缓存</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis/20200722-pri-sec-cache.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis/20200722-pri-sec-cache.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">一二级缓存</source>
       <description>1. 前言 1.1 什么是缓存 缓存是存在内存中的临时数据，通过将我们 经常查询但不常变的数据 放在内存中，当我们查询数据时就不在需要从磁盘读取，而只需要从缓存中查询即可，大大提升了查询的效率，解决了高并发系统的性能问题。 1.2 为什么需要缓存 既然我们可以直接从数据库中查询数据，那为什么还要需要缓存呢？通过使用缓存，我们能够减少和数据库之间的交互频...</description>
       <category>MyBatis 系列</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -2074,9 +2073,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>代码自动生成器</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/mybatis/20211214-generator.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/mybatis/20211214-generator.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">代码自动生成器</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis/20211214-generator.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis/20211214-generator.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">代码自动生成器</source>
       <description>前言 在日常开发工作中，我们往往需要自己去构建各种数据表所对应的持久化对象（PO）、用于操作数据库的接口（DAO）以及跟 DAO 所绑定的对应 XML。这都是一些重复性的操作，不需要多大技术含量，这时候我们不禁会去想，有没有一种工具，能够帮助我们去自动生成这些文件呢？答案是：有的！ 本文接下来的内容主要适用于使用 MyBatis 来做持久层框架开发的工...</description>
       <category>MyBatis 系列</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -2283,16 +2282,16 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>MyBatis</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/mybatis/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/mybatis/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">MyBatis</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">MyBatis</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>简介及入门实例</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/mybatis-plus/20210807-intro.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/mybatis-plus/20210807-intro.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">简介及入门实例</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis-plus/20210807-intro.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis-plus/20210807-intro.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">简介及入门实例</source>
       <description>前言 最开始，要在 Java 中使用数据库时，需要使用 JDBC，创建 Connection、`ResultSet 等，然后我们又对 JDBC 的操作进行了封装，创建了许多类似于 DBUtil 等工具类。再慢慢的，出现了一系列持久层的框架：Hibernate、JPA，Mybatis 等。各个框架的特点如下： Hibernate：一个全自动的 ORM 框...</description>
       <category>MyBatis Plus</category>
       <pubDate>Sat, 07 Aug 2021 00:00:00 GMT</pubDate>
@@ -2396,9 +2395,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>日志配置及常用 CRUD</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/mybatis-plus/20210808-log-crud.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/mybatis-plus/20210808-log-crud.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">日志配置及常用 CRUD</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis-plus/20210808-log-crud.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis-plus/20210808-log-crud.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">日志配置及常用 CRUD</source>
       <description>前言 上一篇文章中我们讲了 Mybatis-Plus 的定义以及相关特点，并从零开始编写了一个 SpringBoot + Mybatis-Plus 的实例。今天我们就来看看，如何利用 MP 来实现对数据库的增删改查。 日志配置 使用 MP 时，默认是不打印任何 SQL 语句的。而为了方便日常开发工作的调试，我们需要联合控制台和各种数据可视化工具进行语句...</description>
       <category>MyBatis Plus</category>
       <pubDate>Sun, 08 Aug 2021 00:00:00 GMT</pubDate>
@@ -2854,16 +2853,16 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>MyBatis Plus</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/mybatis-plus/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/mybatis-plus/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">MyBatis Plus</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis-plus/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/mybatis-plus/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">MyBatis Plus</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>简介与环境搭建</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/nginx/20221016-intro-install.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/nginx/20221016-intro-install.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">简介与环境搭建</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/nginx/20221016-intro-install.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/nginx/20221016-intro-install.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">简介与环境搭建</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/Fx4AAS5pUqSGtui4Z-LYXA 一、简介 1. 什么是 Nginx Nginx 是一个跨平台、轻量级、高性能的 HTTP 和反向代理 web 服务器，而且同时也提供了 IMAP/POP3/SMTP 服务。Nginx 最高能够支持搞到...</description>
       <category>Nginx 教程</category>
       <pubDate>Sun, 16 Oct 2022 00:00:00 GMT</pubDate>
@@ -2962,16 +2961,16 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>Nginx</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/nginx/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/nginx/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Nginx</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/nginx/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/nginx/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Nginx</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>简介</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/redis/20210821-intro.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/redis/20210821-intro.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">简介</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/redis/20210821-intro.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/redis/20210821-intro.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">简介</source>
       <description>前言 说到 Redis，大家可能第一反应就是它是当前最受欢迎的 NoSQL 数据库之一。那么在正式介绍 Redis 之前，我们先来看看关于 NoSQL 的一些相关信息，比如它是什么，又比如它的一些特点以及它的一些分类。那么我们接下来就从以上三个方面来对 NoSQL 的相关历史做一个简单介绍，然后再去看看 Redis 的相关知识。 什么是 NoSQL N...</description>
       <category>Redis 教程</category>
       <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
@@ -3169,9 +3168,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>Redis 持久化</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/redis/20221016-persistence.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/redis/20221016-persistence.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Redis 持久化</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/redis/20221016-persistence.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/redis/20221016-persistence.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Redis 持久化</source>
       <description>什么是持久化？ 所谓持久化，其实就是一种机制，它能够 将内存中的数据库状态保存到磁盘 中，从而防止服务器宕机导致内存数据丢失。Redis 的 数据都是存在内存中 的，一旦出现宕机等情况，所有数据将会丢失，而持久化机制则是为了应对这一突发故障而提出的机制。 持久化的过程 要进行持久化，都是由客户端发起请求，然后再到服务器真实地写入磁盘中，一般需要经过如下...</description>
       <category>Redis 教程</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -3259,16 +3258,16 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>Redis</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/redis/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/redis/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Redis</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/redis/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/redis/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Redis</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>简介</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/spring/20200720-intro.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/spring/20200720-intro.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">简介</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/20200720-intro.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/20200720-intro.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">简介</source>
       <description>前言 为了解决我们开发者在 J2EE 开发时所遇到的众多问题，Rob Johnson 等人发起了 Spring 框架项目。Spring 是一个开源的 J2EE 应用程序框架，是针对 Bean 的生命周期进行管理的轻量级容器。它既可以单独用于构建程序，也能和当前众多的 Web 框架进行组合使用，能够十分方便的降低当前企业应用开发的复杂性。既然 Sprin...</description>
       <category>Spring 系列</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -3465,9 +3464,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>IoC 大揭秘</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/spring/20200723-ioc.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/spring/20200723-ioc.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">IoC 大揭秘</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/20200723-ioc.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/20200723-ioc.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">IoC 大揭秘</source>
       <description>1. 什么是 Ioc 1.1 Ioc 定义 Ioc（Inversion of Control），即 控制反转，是 Spring 框架的核心内容，实际上指的是 对一个对象的控制权的反转，和 OOP 一样，属于一种设计思想。Ioc 表示将我们 设计好的对象交由容器控制，而 不再使用在对象内部直接控制 这种传统方式，而 DI（依赖注入）则是实现 Ioc 的一...</description>
       <category>Spring 系列</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -3500,9 +3499,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>依赖注入知多少</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/spring/20200724-di.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/spring/20200724-di.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">依赖注入知多少</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/20200724-di.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/20200724-di.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">依赖注入知多少</source>
       <description>0. 前言 Spring 中，用来组成应用程序的主体以及由 Spring IoC 容器所管理的对象叫做 Bean。简而言之，Bean 就是由 IoC 容器来进行初始化、装配和管理的对象。 Bean 的作用域主要有如下几种： 0.1 Singleton 作用域为 Singleton，表明 IoC 容器中只会存在一个共享 Bean 实例，而且所有对 Bea...</description>
       <category>Spring 系列</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -3640,9 +3639,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>Spring Bean 注解详解</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/spring/20210521-annotation.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/spring/20210521-annotation.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Spring Bean 注解详解</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/20210521-annotation.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/20210521-annotation.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Spring Bean 注解详解</source>
       <description>前言 本篇博客中，我们将会讨论用于声明不同类型 Beans 的几种最常用的 Spring Bean 注解。 众所周知，Spring 容器中有许多配置 Bean 的方法，我们既可以通过 XML 配置，也可以在配置类中使用 @Bean 注解来声明 Beans。此外，我们还可以使用 org.springframework.stereotype 包中的一个注解...</description>
       <category>Spring 系列</category>
       <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
@@ -3717,9 +3716,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>IoC 简介及入门实例（XML 版）</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/spring/20220428-ioc-xml.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/spring/20220428-ioc-xml.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">IoC 简介及入门实例（XML 版）</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/20220428-ioc-xml.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/20220428-ioc-xml.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">IoC 简介及入门实例（XML 版）</source>
       <description>IoC IoC（Inversion of Control），中文名又叫做控制反转。 针对当前书写代码时耦合度偏高的现状，大牛们提出了对应的解决方案。那就是在使用对象时，不要再通过主动使用 new 来创建对象，而是转变为由外部来提供对象。而这种将对象的创建控制权从程序转移到外部的思想就叫做控制反转。 总结来说，IoC 就是指在使用对象时由主动 new 创...</description>
       <category>Spring 系列</category>
       <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
@@ -3769,9 +3768,9 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>Bean 详解</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/spring/20220429-bean.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/spring/20220429-bean.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Bean 详解</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/20220429-bean.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/20220429-bean.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Bean 详解</source>
       <description>Bean 的别名配置 接着上一篇文章中的 配置，其中配置了 id 属性，通过 id 属性我们就可以获取到对象。其实 配置也提供了 name 属性，它是用于定义 Bean 的别名，一个 Bean 的别名是可以有多个的，各个别名之间可以通过逗号（,）、分号（;）、空格（ ）分隔。 当我们要获取 Bean 时，既可以通过 id，也可以通过 name 获取。两...</description>
       <category>Spring 系列</category>
       <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
@@ -3836,23 +3835,23 @@ git config --global user.email "jiefav@163.com"</p>
     </item>
     <item>
       <title>Spring</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/spring/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/spring/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Spring</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/spring/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Spring</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>Spring Boot</title>
-      <link>https://cunyu1943.github.io/zzdxy/framework/springboot/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/framework/springboot/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Spring Boot</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/framework/springboot/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/framework/springboot/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Spring Boot</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>计算机网络面试知识点</title>
-      <link>https://cunyu1943.github.io/zzdxy/interview/knowledge/20201231-network.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/interview/knowledge/20201231-network.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">计算机网络面试知识点</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20201231-network.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20201231-network.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">计算机网络面试知识点</source>
       <description>1. 计算机网络基础 1.1 主机间的通信方式 1. 客户端-服务器（C/S） 客户端是服务的请求放，服务器是服务的提供方。 2. 对等（P2P） 不用区分谁是客户端，谁是服务器，双方都能够向对方请求与提供服务。 1.2 电路 &amp; 分组交换 1. 分组交换 每个分组由首部和尾部组成，包含源地址和目的地址等控制信息，在同一个传输线路上同时传输多个分组互不...</description>
       <category>求职面试</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -4416,9 +4415,9 @@ delay = length(m)/v(m/s)
     </item>
     <item>
       <title>Spring 面试知识点</title>
-      <link>https://cunyu1943.github.io/zzdxy/interview/knowledge/20210103-spring.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/interview/knowledge/20210103-spring.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Spring 面试知识点</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20210103-spring.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20210103-spring.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Spring 面试知识点</source>
       <description>1. Spring 特点 Spring 主要有如下特点： 1. 轻量级：Spring 是非侵入式，其中的对象不依赖 Spring 的特定类； 2. 控制反转（IoC）：通过 IoC，促进了低耦合，一个对象依赖的其他对象通过被动的方式传递进来，而不用该对象主动创建或查找； 3. 面向切面（AOP）：支持面向切面编程，将应用业务逻辑层和系统服务层分开； 4...</description>
       <category>求职面试</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -4737,9 +4736,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>异常面试知识点</title>
-      <link>https://cunyu1943.github.io/zzdxy/interview/knowledge/20210528-exception.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/interview/knowledge/20210528-exception.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">异常面试知识点</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20210528-exception.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20210528-exception.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">异常面试知识点</source>
       <description>异常简介 异常类层次结构 从结构图可以看出，所有异常均继承自 Throwable 类，它有两个重要的子类：Exception 和 Error ，各自又包含大量子类。 1. Exception 程序本身可以处理的异常，又可以分为 受检异常 和 非受检异常 ，受检异常 可以用 try...catch... 语句进行捕获处理，而且能从异常中恢复。但 非受检异...</description>
       <category>求职面试</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -4871,9 +4870,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>多线程面试知识点</title>
-      <link>https://cunyu1943.github.io/zzdxy/interview/knowledge/20210629-thread.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/interview/knowledge/20210629-thread.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">多线程面试知识点</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20210629-thread.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20210629-thread.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">多线程面试知识点</source>
       <description>1. 进程和线程 1.1 进程 进程是系统中正在运行的一个程序，是 资源分配的基本单位，每个进程都有独立的地址空间。 进程控制块（Process Control Block，PCB）描述了进程的基本信息和运行状态，所谓的创建和撤销进程，都是指对于 PCB 的操作； 1.2 线程 线程是 独立调度的基本单位，被包含在进程中，是进程中的实际运作单位。一个进...</description>
       <category>求职面试</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -5245,9 +5244,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>MyBatis 面试知识点</title>
-      <link>https://cunyu1943.github.io/zzdxy/interview/knowledge/20210822-mybatis.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/interview/knowledge/20210822-mybatis.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">MyBatis 面试知识点</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20210822-mybatis.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20210822-mybatis.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">MyBatis 面试知识点</source>
       <description>Hibernate 简介 什么是 Hibernate？ Hibernate 是一种 ORM（Object Relational Mapping） 框架，用于在 Java 对象和关系数据库之间建立某种映射，从而实现 Java 对象存取； Hibernate 优缺点 优点 Hibernate 建立在 POJO 和数据库表模型的直接映射关系之上。通过 XML...</description>
       <category>求职面试</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -5428,9 +5427,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>Java 基础面试知识点</title>
-      <link>https://cunyu1943.github.io/zzdxy/interview/knowledge/20240201-java-basic.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/interview/knowledge/20240201-java-basic.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Java 基础面试知识点</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20240201-java-basic.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20240201-java-basic.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Java 基础面试知识点</source>
       <description>一个 Java 文件中是否可以存在多个类（修饰类除外）？ 一个 Java 文件中是可以存在多个类的，但是一个 Java 文件中只能存在一个 public 所修饰的类，而且这个 Java 文件的文件名还必须和 public 所修饰类的类名保持一致，一个简单的实例如下。 Java 有哪些特点？ 1. 面向对象，具有封装、继承、多态三大特性 2. 平台独立，...</description>
       <category>求职面试</category>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
@@ -6634,9 +6633,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>Java 进阶面试知识点</title>
-      <link>https://cunyu1943.github.io/zzdxy/interview/knowledge/20240203-java-advanced.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/interview/knowledge/20240203-java-advanced.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Java 进阶面试知识点</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20240203-java-advanced.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20240203-java-advanced.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Java 进阶面试知识点</source>
       <description>异常 异常类层次结构 从结构图可以看出，所有异常均继承自 Throwable 类，它有两个重要的子类：Exception 和 Error ，各自又包含大量子类。 1. Exception 程序本身可以处理的异常，又可以分为 受检异常 和  非受检异常 ，受检异常 可以用 try...catch... 语句进行捕获处理，而且能从异常中恢复。但 非受检异常...</description>
       <category>求职面试</category>
       <pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
@@ -7335,9 +7334,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>MySQL 面试知识点</title>
-      <link>https://cunyu1943.github.io/zzdxy/interview/knowledge/20240203-mysql.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/interview/knowledge/20240203-mysql.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">MySQL 面试知识点</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20240203-mysql.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/20240203-mysql.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">MySQL 面试知识点</source>
       <description>数据库基础 使用数据库的优点 最开始，我们是将数据保存在 内存 中，这能够保证我们十分 快速存取，但是一旦断电，数据就丢失了，无法永久保存。 于是我们将数据存放在 文件 中，这样一来我们就 能够将数据永久保存，但每次都要进行频繁的 IO 操作，相对于内存来讲速度就慢了许多，而且进行查询操作也不方便。 于是，我们转移到了 数据库 存储，通过这种方式不但 ...</description>
       <category>求职面试</category>
       <pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
@@ -8008,370 +8007,16 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>知识点</title>
-      <link>https://cunyu1943.github.io/zzdxy/interview/knowledge/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/interview/knowledge/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">知识点</source>
-      <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>内存管理函数</title>
-      <link>https://cunyu1943.github.io/zzdxy/program-language/c/20180308-memory-manage.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/program-language/c/20180308-memory-manage.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">内存管理函数</source>
-      <description>共勉 不要哀求，学会争取。若是如此，终有所获。 malloc函数 原型：extern void* malloc(unsigned int size)；; 功能：动态分配内存；; 注意：size 仅仅为申请内存字节大小，与申请内存块中存储的数据类型无关，故编程时需要通过以下方式给出：长度 * sizeof(数据类型)；; 示例：; free函数 原型：v...</description>
-      <category>C 语言教程</category>
-      <pubDate>Thu, 08 Mar 2018 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> 内存管理函数</h1>
-<div class="hint-container info">
-<p class="hint-container-title">共勉</p>
-<p>不要哀求，学会争取。若是如此，终有所获。</p>
-</div>
-<h2> malloc函数</h2>
-<ul>
-<li>
-<p>原型：<code>extern void* malloc(unsigned int size)</code>；</p>
-</li>
-<li>
-<p>功能：动态分配内存；</p>
-</li>
-<li>
-<p>注意：<code>size</code> 仅仅为申请内存字节大小，与申请内存块中存储的数据类型无关，故编程时需要通过以下方式给出：<code>长度 * sizeof(数据类型)</code>；</p>
-</li>
-<li>
-<p>示例：</p>
-</li>
-</ul>
-<div class="language-c line-numbers-mode" data-ext="c"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> free函数</h2>
-<ul>
-<li>原型：<code>void free(void * ptr)</code>；</li>
-<li>功能：搭配 <code>malloc()</code> 函数，释放 <code>malloc</code> 函数申请的动态内存；</li>
-<li>注意：对于 <code>free(ptr)</code>，若 <code>ptr</code> 为 <code>NULL</code>，则可进行多次释放，若 <code>ptr</code> 是非空指针，则 <code>free</code> 对 <code>ptr</code> 只能进行一次操作，否则程序将崩溃；</li>
-<li>示例：见 <code>malloc</code> 函数；</li>
-<li>结果：见 <code>malloc</code> 函数；</li>
-</ul>
-<h2> realloc函数</h2>
-<ul>
-<li>
-<p>原型： <code>void* realloc(void * ptr,unsigned int size)</code>；</p>
-</li>
-<li>
-<p>功能：先判断当前指针是否有足够的连续空间，若足够，扩大 <code>ptr</code> 指向的地址并返回，若不够，怎按<code>size</code> 指定的大小分配空间，将原数据 <code>copy</code> 到新分配的内存中，然后释放原 <code>ptr</code> 所指向区域；</p>
-</li>
-<li>
-<p>注意：内存使用完毕后，应使用 <code>free()</code> 函数释放，但原来的指针是自动释放，不需要使用free；</p>
-</li>
-<li>
-<p>示例：</p>
-</li>
-</ul>
-<div class="language-c line-numbers-mode" data-ext="c"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> calloc函数</h2>
-<ul>
-<li>
-<p>原型：<code>void* calloc（unsigned int num，unsigned int size）</code>；</p>
-</li>
-<li>
-<p>功能：为已经分配的内存重新分配空间并复制内容；</p>
-</li>
-<li>
-<p>注意：<code>num</code>：对象个数，<code>size</code>：对象占据的内存字节数，相较于 <code>malloc</code> 函数，<code>calloc</code> 函数会自动将内存初始化为 0；</p>
-</li>
-<li>
-<p>示例：</p>
-</li>
-</ul>
-<div class="language-c line-numbers-mode" data-ext="c"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> ⏳ 联系</h2>
-<p>想解锁更多知识？不妨关注我的微信公众号：<strong>村雨遥（id：JavaPark）</strong>。</p>
-<p>扫一扫，探索另一个全新的世界。</p>
-<figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></content:encoded>
-      <enclosure url="https://cunyu1943.github.io/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
-    </item>
-    <item>
-      <title>知识点总结</title>
-      <link>https://cunyu1943.github.io/zzdxy/program-language/c/20180720-summary.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/program-language/c/20180720-summary.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">知识点总结</source>
-      <description>共勉 不要哀求，学会争取。若是如此，终有所获。 Debug 和 Release 版本比较 Debug 附加了许多调试信息，主要用于调试，故文件大；; Release 是经过优化后的版本，去掉了调试信息，代码进行了优化，故文件较小，且编译速度快过 Debug，用于发布平台的配置管理器的设置；; 32 位与 64 位 32 位，地址为 32 位，最大使用内...</description>
-      <category>C 语言教程</category>
-      <pubDate>Fri, 20 Jul 2018 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> 知识点总结</h1>
-<div class="hint-container info">
-<p class="hint-container-title">共勉</p>
-<p>不要哀求，学会争取。若是如此，终有所获。</p>
-</div>
-<h2> Debug 和 Release 版本比较</h2>
-<ul>
-<li>Debug 附加了许多调试信息，主要用于调试，故文件大；</li>
-<li>Release 是经过优化后的版本，去掉了调试信息，代码进行了优化，故文件较小，且编译速度快过 Debug，用于发布平台的配置管理器的设置；</li>
-</ul>
-<h2> 32 位与 64 位</h2>
-<ul>
-<li>32 位，地址为 32 位，最大使用内存 4G，只能运行 32 位的数据；</li>
-<li>64 位，地址为 64 位，既可以运行 32 位的数据，也可以运行 64 位的数据；</li>
-</ul>
-<h2> 指针</h2>
-<ul>
-<li>指针是个量，对应一块内存区域；</li>
-<li>指针存储的是某个内存单元的地址；</li>
-<li>访问方式：</li>
-</ul>
-<p>1、直接访问：按变量地址存取变量值，取地址符&amp;；</p>
-<p>2、间接访问：通过存放变量地址的变量去访问变量，间接运算符*；</p>
-<ul>
-<li>在函数中改变一个外部变量，需要变量的地址；</li>
-<li>若是数据，需要指向数据的指针存储数据的地址；</li>
-<li>若是指针，需要指向指针的指针存用户指针的地址；</li>
-</ul>
-<h2> 数组与指针</h2>
-<ul>
-<li>p[i]等价于*(p+i)，&amp;p[i]等价于 p+i;</li>
-<li>a[i][j]等价于*(*(a+i)+j)，&amp;a[i][j]等价于*(a+i)+j， a[i]等价于*(a+i)；</li>
-<li>行数组指针定义方法：数据类型（*指针变量名）[二维数组列数]；</li>
-<li>二维数组地址不可变化，数据可以变化，可以在不修改地址的情况下管理数据，指针数组指向的数据不可变化，但地址可以变化，在不修改数据的情况下查看数据；</li>
-<li>三维数组与指针，A[i][j][k]的三种表达形式：*(A[i][j]+k)、*(*(A[i]+j)+k)、*(*(*(A+i)+j)+k)；</li>
-</ul>
-<h2> 函数与指针</h2>
-<ul>
-<li>若在程序中定义了一个函数，在编译时，编译系统为函数代码分配一段存储空间，这段存储空间的起始地址，称为这个函数的指针，int(*p)(int, int)，代表定义 p 是指向函数的指针变量，可以指向类型为整形且有两个整形参数的函数；</li>
-<li>定义返回值为指针值的函数的一般形式：类型名 *函数名（参数列表）；</li>
-</ul>
-<h2> malloc 和 free 函数</h2>
-<ul>
-<li>动态内存分配，无法知道内存具体位置时，想要绑定真正的内存空间，则要用到动态分配内存，原型为 extern void* malloc(unsigned int size)，空指针可以转换为任何类型的指针，size 仅仅是申请字节的大小，并不管申请的内存块中存储的数据类型，故申请内存的长度需通过“长度 x sizeof（类型）”的方式给出，使用完之后要用 free 释放内存；</li>
-<li>一个类型的指针包含三个信息：地址、步长、内容如何解析；</li>
-<li>在栈区开辟一段内存，系统会自己回收，在堆区开辟一段内存，需要手动用 free 释放；</li>
-</ul>
-<h2> calloc 和 realloc 函数</h2>
-<ul>
-<li>calloc 原型：void* calloc（unsigned int num，unsigned int size），num：对象个数，size：对象占据的内存字节数，功能是为已经分配的内存重新分配空间并复制内容，会自动将内存初始化为 0；</li>
-<li>realloc 原型：void<em>realloc（void</em> ptr，unsigned int size），ptr：已分配的内存地址，size：重新分配的字节数</li>
-</ul>
-<h2> 内存分区</h2>
-<ul>
-<li>C/C++中，内存分为：堆、栈、自由存储区、全局/静态存储区、常量存储区；</li>
-<li>堆：由 new 分配的内存块，一般对应一个 delete，若没用释放，则程序结束后操作系统自动回收；</li>
-<li>栈：编译器需要的时候分配，不需要时自动清楚的变量的存储区，通常是局部变量、函数参数等；</li>
-<li>自由存储区：由 malloc 等分配的内存块，必须用 free 释放；</li>
-<li>全局存储区：全局变量和静态变量的存储区域，未初始化的两者在相邻存的另一块区域，程序结束后自动释放；</li>
-<li>常量存储区：存放常量，不可修改；</li>
-</ul>
-<h2> sizeof 和 strlen</h2>
-<ul>
-<li>实例</li>
-</ul>
-<div class="language-c line-numbers-mode" data-ext="c"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ul>
-<li>结果：</li>
-</ul>
-<figure><figcaption></figcaption></figure>
-<ul>
-<li>结论：对一个数组字符串，sizeof 不管是否初始化，只输出其预留内存大小，而 strlen()输出初始化后的字符串所占内存大小，不含'\0'；</li>
-</ul>
-<h2> gets 和 scanf</h2>
-<ul>
-<li>gets 遇到换行符表示结束，而 scanf 遇到空格、制表符、换行则表示结束；</li>
-</ul>
-<h2> Unicode 字符问题</h2>
-<ul>
-<li>char 字符串可显示汉字，但字符不可以，字符连在一起用%c%c 可以输出一个汉字；</li>
-</ul>
-<h2> 结构体</h2>
-<ul>
-<li>结构体引用方式：结构体数组名[下标].成员名；</li>
-<li>结构体指针变量引用成员形式：(*结构体指针名).成员名、结构体指针名-&gt;成员名、结构体变量名.成员名；</li>
-</ul>
-<h2> 结构体字节对齐机制</h2>
-<ul>
-<li>结构体变量大小是能够被其最宽基本类型成员的大小所整除；</li>
-<li>结构体每个成员相对于结构体首地址的偏移量都是成员大小的整数倍，若有需要编译器会在成员之间加上填充字节；</li>
-<li>结构体总大小为结构体最宽基本类型成员大小的整数倍，若有需要编译器会在最末一个成员之后加上填充字节；</li>
-</ul>
-<h2> 共同体 union</h2>
-<ul>
-<li>使几个不同类型的变量共占一段内存(相互覆盖)，长度=最长成员所占字节数，不能同时对所有成员初始化；</li>
-</ul>
-<h2> 深拷贝与浅拷贝</h2>
-<ul>
-<li>深拷贝：根据指针指向的值，重新申请内存，再以此将指针指向内容复制过来，有相互独立的内存空间，一般复制构造函数和 strcpy 等函数都是深拷贝；</li>
-<li>浅拷贝：把对象（结构）里的值完全复制给另一个对象（结构），对于地址也是照抄，类的默认复制构造函数是将类中非静态成员变量逐个复制，是浅拷贝；</li>
-</ul>
-<h2> 文件分类</h2>
-<h3> 按逻辑</h3>
-<ul>
-<li>记录文件：具有一定结构的记录组成（定长和不定长）；</li>
-<li>流式文件：由一个个字符（字节）数据顺序组成；</li>
-</ul>
-<h3> 按存储介质</h3>
-<ul>
-<li>普通文件：存储介质文件（磁盘、磁带等）；</li>
-<li>设备文件：非存储介质（键盘、显示器、打印机等）；</li>
-</ul>
-<h3> 按数据组织形式</h3>
-<ul>
-<li>文本文件：ASXII 文件，每个字节存放一个字符的 ASCII 码；</li>
-<li>二进制文件：数据按其在内存中的存储形式原样存放；</li>
-</ul>
-<h2> 文件处理方法</h2>
-<ul>
-<li>缓冲文件系统：高级文件系统，系统自动为正在使用的文件开辟内存缓冲区和非缓冲文件系统；</li>
-<li>低级文件系统：由用户在程序中为每个文件设定缓冲区；</li>
-</ul>
-<h2> fscanf 和 fprintf 函数</h2>
-<ul>
-<li>两者遇到空格或换行时结束；</li>
-</ul>
-<h2> 文件型结构体</h2>
-<div class="language-c line-numbers-mode" data-ext="c"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> fopen 打开模式</h2>
-<ul>
-<li>只读模式"r"打开文件，该文件必须存在，否则打开失败，r+,rb,rb+,rt,rt+模式打开文件，文件不存在也会失败；</li>
-<li>只写模式"w"打开，文件存在则长度清 0，不存在则建立文件，w+,wb,wb+,wt,wt+模式打开文件，文件不存在则建立文件；</li>
-<li>a 以附加的方式打开只写文件，若文件不存在，则建立文件，存在则在文件尾部添加数据，a+以附加的方式打开可读写文件，不存在则建立文件，存在则写入数据到文件尾，at 二进制数据的追加，不存在则创建，只能写、at+读写打开一个文本文件，允许读或在文本末追加数据，ab 二进制数据的追加，不存在则创建，只能写；</li>
-</ul>
-<h2> 阻塞模式和非阻塞模式</h2>
-<ul>
-<li>非阻塞模式，会引起宕机，会一直执行；</li>
-</ul>
-<div class="language-c line-numbers-mode" data-ext="c"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><ul>
-<li>阻塞模式，不会引起宕机，执行一步后才能执行下一步；</li>
-</ul>
-<div class="language-c line-numbers-mode" data-ext="c"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> ⏳ 联系</h2>
-<p>想解锁更多知识？不妨关注我的微信公众号：<strong>村雨遥（id：JavaPark）</strong>。</p>
-<p>扫一扫，探索另一个全新的世界。</p>
-<figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>C 语言</title>
-      <link>https://cunyu1943.github.io/zzdxy/program-language/c/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/program-language/c/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">C 语言</source>
-      <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>知识点总结</title>
-      <link>https://cunyu1943.github.io/zzdxy/program-language/cpp/20180720-summary.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/program-language/cpp/20180720-summary.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">知识点总结</source>
-      <description>共勉 不要哀求，学会争取。若是如此，终有所获。 const 在不同位置时的不同意义 指针类型前：声明一个指向常量的指针，程序中不能通过指针来改变它所指向的值，但指针本身的值可以改变，即指针可以指向其他数据；; \&amp;quot;*&amp;quot;号和指针名之间，声明一个指针常量(常指针)，指针本身的值不可改变，即不能指向其他数据，但指向的数据的值可以改变；; 两个地方都加，声明指...</description>
-      <category>C++ 系列</category>
-      <pubDate>Fri, 20 Jul 2018 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> 知识点总结</h1>
-<div class="hint-container info">
-<p class="hint-container-title">共勉</p>
-<p>不要哀求，学会争取。若是如此，终有所获。</p>
-</div>
-<h2> const 在不同位置时的不同意义</h2>
-<ul>
-<li>指针类型前：声明一个指向常量的指针，程序中不能通过指针来改变它所指向的值，但指针本身的值可以改变，即指针可以指向其他数据；</li>
-<li>"*"号和指针名之间，声明一个指针常量(常指针)，指针本身的值不可改变，即不能指向其他数据，但指向的数据的值可以改变；</li>
-<li>两个地方都加，声明指向常量的指针常量，指针本身的值不可改变，指向的数据也不能通过指针改变；</li>
-</ul>
-<h2> 函数指针</h2>
-<ul>
-<li>使用函数指针之前，必须先赋值，使它指向一个函数入口地址，赋值语法格式为：函数指针名 = 函数名，其中函数名代表的函数必须是一个已经定义过的，和函数指针具有相同返回类型的函数，指针调用函数格式：<code>(*指针变量)(实参列表)</code>；</li>
-</ul>
-<h2> 访问权限</h2>
-<ul>
-<li>public：可被任意实体访问；</li>
-<li>protected：只允许本类及子类的成员函数访问；</li>
-<li>private：只允许本类的成员函数访问；</li>
-</ul>
-<h2> 构造函数</h2>
-<ul>
-<li>创建对象时，自动调用构造函数，不能在程序中直接调用，可有任意类型参数，但不能有返回类型；</li>
-<li>构造函数作用：为对象分配空间、为数据成员赋初值、请求其他资源；</li>
-<li>构造函数工作：初始化虚函数表、建立基类对象、建立非静态数据成员对象、安置虚基类对象信息、执行构造函数体中的代码；</li>
-<li>若一个类中没有定义构造函数，编译器会自动生成不带参数的默认构造函数，格式为：</li>
-</ul>
-<div class="language-c++ line-numbers-mode" data-ext="c++"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 析构函数</h2>
-<ul>
-<li>析构函数作用：清除对象、释放内存；</li>
-<li>析构函数工作：执行析构函数中的代码、将对象占据的存储空间归还系统、做公共及用户要求的善后工作；</li>
-<li>析构函数无参数和返回值，一个类中只能定义一个析构函数，故不能重载，格式为：</li>
-</ul>
-<div class="language-c++ line-numbers-mode" data-ext="c++"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 内存布局</h2>
-<ul>
-<li>全局数据区：存放全局变量、静态数据、常量；</li>
-<li>代码区：存放类成员函数、其他函数代码；</li>
-<li>栈区：存放局部变量、函数参数、返回数据、返回地址；</li>
-<li>堆区：自由存储区；</li>
-</ul>
-<h2> 运算符重载重载形式</h2>
-<ul>
-<li>重载为类的成员函数，参数个数比原来的运算数少一个</li>
-</ul>
-<div class="language-c++ line-numbers-mode" data-ext="c++"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ul>
-<li>重载为类的友元函数，参数个数与原运算数个数一样多；</li>
-</ul>
-<div class="language-c++ line-numbers-mode" data-ext="c++"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ul>
-<li>函数重载：返回值类型可以相同可以不同，但形参列表一定不同；</li>
-</ul>
-<h2> 静态数据成员</h2>
-<ul>
-<li>初始化格式：<code>&lt;类型&gt;&lt;类名&gt;::&lt;静态数据成员&gt;=&lt;值&gt;;</code></li>
-<li>引用格式：<code>&lt;类名&gt;::&lt;静态数据成员&gt;;</code></li>
-</ul>
-<h2> 继承方式</h2>
-<ul>
-<li>私有继承 private：父类的公有成员和保护成员作为子类的的私有成员，且不能被子类的派生类访问；</li>
-<li>公有继承 public：父类的公有成员和保护成员作为子类的成员时，仍保持原有状态，父类私有成员仍为私有；</li>
-<li>保护继承 protected：父类的公有成员和保护成员成为子类的保护成员，且只能被他的派生类成员函数或友元访问，父类私有成员仍为私有；</li>
-</ul>
-<figure><figcaption></figcaption></figure>
-<h2> 派生类构造函数调用顺序：</h2>
-<ul>
-<li>调用基类的构造函数，调用顺序按继承时说明的顺序；</li>
-<li>调用子对象类的构造函数，调用顺序按在类中说明的顺序；</li>
-<li>派生类构造函数体中内容；</li>
-</ul>
-<h2> 函数模版</h2>
-<div class="language-C++ line-numbers-mode" data-ext="C++"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 虚函数</h2>
-<ul>
-<li>虚函数必须是类的成员函数，不能是友元，但可以是另一个类的友元，不能为全局函数，也不能为静态函数，析构函数可以为虚函数，但构造函数不能为虚函数；</li>
-</ul>
-<h2> 变量初始化</h2>
-<ul>
-<li>局部变量：定义时，系统不会进行初始化；</li>
-<li>全局变量：定义时，系统自动初始化，</li>
-</ul>
-<figure><figcaption></figcaption></figure>
-<h2> 友元函数</h2>
-<ul>
-<li>在类中定义过，但不是成员函数，定义在类外部，但有权访问类中成员；</li>
-</ul>
-<h2> this 指针</h2>
-<ul>
-<li>只有成员函数才有 <code>this </code>指针，友元函数没有 <code>this</code> 指针；</li>
-</ul>
-<h2> 静态成员函数与普通成员函数区别：</h2>
-<ul>
-<li>静态成员函数没有 <code>this</code> 指针，只能访问静态成员（包括静态成员变量和静态成员函数）；</li>
-<li>普通成员函数有 <code>this</code> 指针，可以访问类中任意成员，而静态成员函数无 <code>this </code>指针；</li>
-</ul>
-<h2> ⏳ 联系</h2>
-<p>想解锁更多知识？不妨关注我的微信公众号：<strong>村雨遥（id：JavaPark）</strong>。</p>
-<p>扫一扫，探索另一个全新的世界。</p>
-<figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>C++ 系列</title>
-      <link>https://cunyu1943.github.io/zzdxy/program-language/cpp/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/program-language/cpp/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">C++ 系列</source>
-      <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 系列</title>
-      <link>https://cunyu1943.github.io/zzdxy/program-language/python/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/program-language/python/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Python 系列</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/interview/knowledge/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">知识点</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>开发环境搭建</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/front-end/20230829-environment.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/front-end/20230829-environment.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">开发环境搭建</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/front-end/20230829-environment.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/front-end/20230829-environment.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">开发环境搭建</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 一、前言 正所谓欲善其事，必先利器。那在正式学习 Web 前端之前，不妨来看看，我们都要先做好那些事前准备。 首先，既然要开始写代码了，一个趁手的编辑器/IDE 肯定是必不可少了，不可能还去使用记事本吧。当然也不是看不起记事本，只是技术虽然很重要，但效率也不能落下，要两手抓，才能有更好的产出。 目前...</description>
       <category>Web 前端教程</category>
       <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
@@ -8447,9 +8092,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>HTML 大揭秘</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/front-end/20230829-html.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/front-end/20230829-html.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">HTML 大揭秘</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/front-end/20230829-html.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/front-end/20230829-html.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">HTML 大揭秘</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 什么是 HTML HTML（`Hyper Text Markup Language`），中文译为超文本标记语言。其中，我们需要注意两个关键词。一个是 超文本，一个是 标记。所谓超文本，就是将不同空间的文字信息通过超链接的方式组织在一起的网状文本，往简单了将就是我们说的链接。而标记的另一个名字也叫标签...</description>
       <category>Web 前端教程</category>
       <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
@@ -8828,13 +8473,13 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
 <p>扫一扫，探索另一个全新的世界。</p>
 <figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 ]]></content:encoded>
-      <enclosure url="https://cunyu1943.github.io/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
     </item>
     <item>
       <title>CSS 教程</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/front-end/20230903-css.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/front-end/20230903-css.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">CSS 教程</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/front-end/20230903-css.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/front-end/20230903-css.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">CSS 教程</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 一、前言 二、概念 1. 什么是 CSS CSS（`Cascading Style Sheets），中文译为 层叠样式表。它是一种样式表语言，用于美化 HTML` 文档的呈现。一般位于 头部， 标签下添加 标签，CSS 代码就放在 中。 2. CSS 引入方式 CSS 引入方式有三种，分别是： 内部...</description>
       <category>Web 前端教程</category>
       <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
@@ -9133,13 +8778,13 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
 <p>扫一扫，探索另一个全新的世界。</p>
 <figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 ]]></content:encoded>
-      <enclosure url="https://cunyu1943.github.io/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
     </item>
     <item>
       <title>Axios 简单使用指南</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/front-end/20230926-axios.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/front-end/20230926-axios.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Axios 简单使用指南</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/front-end/20230926-axios.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/front-end/20230926-axios.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Axios 简单使用指南</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 一、概述 1. 什么是 Axios ？ Axios 是一个开源的基于 promise 的 HTTP 请求库，一般常用于浏览器和 node.js 中。它能够在具有相同代码库的浏览器和 nodejs 中同时运行，在服务器侧，它利用服务器端原生的 node.js http 模块，而在客户端侧（一般是浏览器），则...</description>
       <category>Web 前端教程</category>
       <pubDate>Tue, 26 Sep 2023 00:00:00 GMT</pubDate>
@@ -9224,16 +8869,16 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>Web 前端</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/front-end/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/front-end/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Web 前端</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/front-end/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/front-end/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Web 前端</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>一、Web 简介</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/front-end/javaweb-tutorial.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/front-end/javaweb-tutorial.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">一、Web 简介</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/front-end/javaweb-tutorial.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/front-end/javaweb-tutorial.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">一、Web 简介</source>
       <description>什么是 Web 什么是 Web 呢？所谓 Web，就是全球广域网，也叫做万维网（www, World Wide Web），通过浏览器就能够访问的网站。 Web 网站工作流程 混合开发 前后端分离 Web 前端 网页组成：文字、图片、音频、视频、超链接 而看到的网页，本质都是前端代码。通过浏览器对前端代码的的解析和渲染，形成用户看的网页。而在浏览器中对代...</description>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 一、Web 简介</h1>
@@ -10836,16 +10481,16 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>实战训练</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/in-action/</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/in-action/</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">实战训练</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/in-action/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/in-action/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">实战训练</source>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
     <item>
       <title>Servlet 详细教程</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20200521-servlet.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20200521-servlet.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Servlet 详细教程</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20200521-servlet.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20200521-servlet.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Servlet 详细教程</source>
       <description>1. Servlet 程序 1.1 什么是 Servlet 1. Servlet 是 JavaEE 规范（接口）之一 2. Servlet 是 JavaWeb 三大组件之一，三大组件分别是：Servlet 程序、Filter 过滤器、Listener 监听器 3. Servlet 是运行在服务器上的 Java 小程序，用于 接收客户端发送的数据，同时响...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -11183,9 +10828,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>Java 入门简介</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220701-intro-to-java.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220701-intro-to-java.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Java 入门简介</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220701-intro-to-java.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220701-intro-to-java.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Java 入门简介</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/aGz8CBOK5mW8xjAlstlMQw 一、前言 既然要学习一门技术，那么就先来了解下它的历史，我们为什么要使用它，以及我们能用它来干啥。 二、历史背景 1990 年代初，Sun 公司的詹姆斯·高斯林等人为了实现电视机、电话、闹钟等家用电器...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -11376,9 +11021,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>JDK 安装及入门实例</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220702-jdk-install-and-hello-world.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220702-jdk-install-and-hello-world.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">JDK 安装及入门实例</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220702-jdk-install-and-hello-world.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220702-jdk-install-and-hello-world.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">JDK 安装及入门实例</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/geOWlAwVMhtmmIMvFvjSpQ 一、前言 作为一个入门的学习者，要进行 Java 开发，那怎么能少得了 JDK 呢，本文就先来看看如何安装并配置 JDK，为后续的学习做好铺垫。 二、下载并安装 JDK 什么是 JDK 呢？JDK（J...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -11564,9 +11209,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>利用 IDEA 进行 Java 开发</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220703-learn-java-with-idea.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220703-learn-java-with-idea.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">利用 IDEA 进行 Java 开发</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220703-learn-java-with-idea.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220703-learn-java-with-idea.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">利用 IDEA 进行 Java 开发</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/Pkf1WTj-x6JH4Jo8mOr8SQ 一、前言 上一篇中，我们讲了 如何搭建 Java 开发环境 (https://mp.weixin.qq.com/s/geOWlAwVMhtmmIMvFvjSpQ)。不过既然确定了要从事 Java 开发...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -11711,9 +11356,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>变量与数据类型</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220704-variable-and-datatype.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220704-variable-and-datatype.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">变量与数据类型</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220704-variable-and-datatype.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220704-variable-and-datatype.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">变量与数据类型</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文：https://mp.weixin.qq.com/s/Yz41IdWSNTgqgj0R-Ffgqw 前情回顾 在之前的文章中，我们已经介绍了如何搭建 Java 开发环境以及如何使用 IDEA，现在就开始正式学习 Java 语言的相关语法吧！😎 本期内容预告如下： 1. 变量 2. 数据类型 3. ...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -12142,9 +11787,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>常用进制转换</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220705-binary-convert.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220705-binary-convert.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">常用进制转换</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220705-binary-convert.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220705-binary-convert.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">常用进制转换</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/2f_dODoVco-tSS66lF0U5A 前言 所谓进制转换，就是人们利用符号来计数的方法。进制转换由一组数码符号和两个基本因素“基数”和“位权”所构成。其中基数是指进位计数制中所采用的数码的个数，逢 n 进 1 中的 n 就是基数。而位权则...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -12249,9 +11894,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>操作符</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220706-operator.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220706-operator.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">操作符</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220706-operator.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220706-operator.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">操作符</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/49KRDz8bpcGdPlU15OJD0g 前言 之前的文章 (https://mp.weixin.qq.com/s/Yz41IdWSNTgqgj0R-Ffgqw) 中介绍了 Java 变量和数据类型，那么如何对他们进行运算呢？这就要用到运算符...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -12593,9 +12238,9 @@ Spring 是一个分层架构，主要由如下 7 大模块所构成。Spring 模
     </item>
     <item>
       <title>流程控制</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220707-control-process.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220707-control-process.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">流程控制</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220707-control-process.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220707-control-process.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">流程控制</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/3WU5l37DpPkR6o7CnFiStA 前言 我们在 上一篇文章 (https://mp.weixin.qq.com/s/49KRDz8bpcGdPlU15OJD0g) 中讲了各种操作符的使用技巧，接上一篇文章中的内容，本次文章主要将流程控...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -12845,9 +12490,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>数组操作的奇技淫巧</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220708-how-to-operate-array.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220708-how-to-operate-array.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">数组操作的奇技淫巧</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220708-how-to-operate-array.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220708-how-to-operate-array.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">数组操作的奇技淫巧</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/2Ff14d3cwjVflhtz67k3vQ 前言 前边已经讲过了 Java 中的 8 大基本数据类型，这篇文章主要就来讲讲引用类型中的数组。主要内容安排如下： 数组简介; 遍历; 排序; 常用方法; 数组简介 所谓数组，其实就是多个相同数据类型...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -12972,9 +12617,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>面向对象的 3、5 知识点</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220709-oop-1.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220709-oop-1.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">面向对象的 3、5 知识点</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220709-oop-1.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220709-oop-1.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">面向对象的 3、5 知识点</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/Z4F7tsjLkPbTGy4_gJPQTw 前言 前面已经讲了 Java 的一些环境搭建、IDE 使用、变量及数据类型、操作符、控制流程以及数组操作，今天就来看看 Java 里边的一个核心思想 - 面向对象编程。 什么是面向对象？ 所谓面向对象...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -13074,13 +12719,13 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>扫一扫，探索另一个全新的世界。</p>
 <figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 ]]></content:encoded>
-      <enclosure url="https://cunyu1943.github.io/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
     </item>
     <item>
       <title>类的相关知识</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220710-oop-2.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220710-oop-2.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">类的相关知识</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220710-oop-2.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220710-oop-2.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">类的相关知识</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/1BPFnyNuC3fdYBVxP7J3VA 前言 学习了面向对象编程的思想，今天就来看看面向对象编程思想在 Java 中的体现 - 类。以及有关类的相关知识，比如属性、方法、引用等。 类与对象 以我们日常生活为例，我们现在很多人都养宠物，而宠物...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -13283,9 +12928,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>包和 jar 文件的创建</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220711-oop-3.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220711-oop-3.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">包和 jar 文件的创建</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220711-oop-3.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220711-oop-3.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">包和 jar 文件的创建</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/l4O4bhDMgHamQ5DVPcqUYA 前言 在之前的文章中，讲到了面向的 3 大特性（封装、继承、多态）和面向对象设计的 5 大原则（SRP、OCP、LSP、DIP、ISP）。此外，我们还讲了如何创建一个类，并且在创建类后如何构造一个对象...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -13417,9 +13062,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>成员变量、实例变量、静态变量、局部变量</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220712-all-kinds-of-variable.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220712-all-kinds-of-variable.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">成员变量、实例变量、静态变量、局部变量</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220712-all-kinds-of-variable.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220712-all-kinds-of-variable.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">成员变量、实例变量、静态变量、局部变量</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 前言 学习 Java 的过程中，一开始很容易被这些各种变量绕晕，这篇博客主要介绍了这几种变量之间的关系和区别。 实例 各变量联系与区别 成员变量 作用范围是整个类，相当于 C 语言中的全局变量，定义在方法体和语句块之外，一般定义在类的声明之下；成员变量包括实例变量和静态变量(类变量)。 实例变量 独立于与...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -13491,9 +13136,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>String 详解</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220713-string.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220713-string.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">String 详解</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220713-string.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220713-string.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">String 详解</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 概述 String 类代表字符串，定义的变量可以用来指向字符串对象，然后操作该字符串，同时还提供了许多用于操作字符串的功能。Java 中，所有的字符串都用双引号 &amp;quot;&amp;quot; 括起来。 此外，String 是不可变的字符串类型，它的对象一旦创建，就不能够再被更改。 但在实际使用过程中，给我们的实际观感可能会觉得 ...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -13720,9 +13365,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>ArrayList 详解</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220714-arraylist.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220714-arraylist.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">ArrayList 详解</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220714-arraylist.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220714-arraylist.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">ArrayList 详解</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 概述 ArrayList 代表的是集合类，集合是一种容器，类似于数组。不同的是数组一旦定义后，其类型和长度就固定了，但集合的大小却是动态变化的，而且其中的元素类型也是动态的。 因此，数组更适合数据个数和类型确定的场景，而集合则更适合数据个数不确定，且需要做增删元素的场景。 泛型支持 ArrayList 实...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -13874,13 +13519,13 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>扫一扫，探索另一个全新的世界。</p>
 <figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 ]]></content:encoded>
-      <enclosure url="https://cunyu1943.github.io/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
     </item>
     <item>
       <title>输入输出流</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220715-in-out-stream.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220715-in-out-stream.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">输入输出流</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220715-in-out-stream.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220715-in-out-stream.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">输入输出流</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 前言 我们日常开发过程中，有许多方面都涉及到 IO 流，比如上传下载、传输、设计模式等等。而所有的一切都是基于 IO 流来进行，所以今天就来看看 Java 中 IO 流的相关知识点。 本文主要内容安排如下： 文件对象; 流简介; 字节流; 字符流; 文件对象 文件路径 Java 标准库 java.io 提...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -14257,9 +13902,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>反射机制详解</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220716-reflection.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220716-reflection.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">反射机制详解</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220716-reflection.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220716-reflection.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">反射机制详解</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/f0sJpAhgI6B7oirsJfv9jQ 反射概述 什么是反射 将类的各个组成部分封装为其他对象的过程就叫做 反射，其中 组成部分 指的是我们类的 成员变量（Field）、构造方法（Constructor）、成员方法（Method）。 使用反...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -14499,9 +14144,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>JDBC 入门指南</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220717-jdbc-introduction.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220717-jdbc-introduction.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">JDBC 入门指南</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220717-jdbc-introduction.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220717-jdbc-introduction.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">JDBC 入门指南</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/DOXFxk5dk9WBfAVK0UJUng 前言 在我们日常使用的 APP 或网站中，往往需要存取数据，比如在微信中，需要存储我们的用户名、手机号、用户密码…… 等一系列信息。依靠之前所学习的 Java 相关知识已经无法满足这一需求。现在的应用...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -14840,9 +14485,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>是时候拥抱 Junit 单元测试了</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220718-test-with-junit.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220718-test-with-junit.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">是时候拥抱 Junit 单元测试了</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220718-test-with-junit.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220718-test-with-junit.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">是时候拥抱 Junit 单元测试了</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/_FWd0Bj3DlbCReex6pqJKQ 何为测试 在计算机领域中，所谓测试，描述的是一种用来鉴定软件正确性、完整性和质量的过程。而软件测试又一般可以分为黑盒测试和白盒测试，两者的相关定义如下。 黑盒测试 黑盒测试（black-box tes...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -15071,9 +14716,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>Lombok 安装及使用指南</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220719-lombok-install-and-usage.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220719-lombok-install-and-usage.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Lombok 安装及使用指南</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220719-lombok-install-and-usage.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220719-lombok-install-and-usage.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Lombok 安装及使用指南</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/t4h5VRfbYqNIRZVlMaqPEg 简介 为了减少写一些 get/set/toString 方法，让项目代码更加整洁，提高开发效率，发现大家都开始采用 Lombok 这个工具。Lombok 是一个 Java 类库，它会自动插入编辑器和构...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -15251,9 +14896,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>Fastjson V2 简单使用手册</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220720-fastjson2-quickstart.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220720-fastjson2-quickstart.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Fastjson V2 简单使用手册</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220720-fastjson2-quickstart.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220720-fastjson2-quickstart.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Fastjson V2 简单使用手册</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 前言 在日常 Java 企业级开发中，可能避不开 JSON 这个格式。 JSON 源于 1999 年的 JS 语言规范 ECMA262 的一个子集，然后又在 2003 年作为一种数据格式 ECMA404 发布，到了 2006 年，又作为 rfc4627 发布。直到现在，JSON 的应用已经十分广泛了。 J...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -15304,9 +14949,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>深入浅出 Java 注解</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220721-annotations.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220721-annotations.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">深入浅出 Java 注解</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220721-annotations.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220721-annotations.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">深入浅出 Java 注解</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 注解简介 所谓注解，其实就像一种拥有特定作用的注释，自 JDK1.5 及之后版本所引入的特性，它是放在 Java 源码的类、方法、字段、参数前的一种用作标注的“元数据”，与类、接口、枚举处于同一个层次中。 通过其作用的不同，我们常常将注解分为如下 3 类： 1. 编写文档：通过代码中标识的注解生成对应文档...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -15500,9 +15145,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>Mockito + JUnit 单元测试实例</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220722-mockito.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20220722-mockito.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">Mockito + JUnit 单元测试实例</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220722-mockito.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20220722-mockito.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Mockito + JUnit 单元测试实例</source>
       <description>前言 在日常 Java 开发中，一般都需要进行单元测试，而 Mock 测试则是单元测试中的重要方法之一。所谓 Mock 测试，就是指在测试过程中，对于一些不容易构造或难以获取的较为复杂的对象，用一个虚拟的对象来代表，从而方便测试的一种测试方法。其中，这个虚拟的对象就叫做 Mock 对象，最常见的就是用它来代表 Servlet 中 HttpServlet...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -15555,9 +15200,9 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
     </item>
     <item>
       <title>流程控制知识大闯关</title>
-      <link>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20221127-loop-in-action.html</link>
-      <guid>https://cunyu1943.github.io/zzdxy/java-tutorial/javase/20221127-loop-in-action.html</guid>
-      <source url="https://cunyu1943.github.io/zzdxy/rss.xml">流程控制知识大闯关</source>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20221127-loop-in-action.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20221127-loop-in-action.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">流程控制知识大闯关</source>
       <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 https://mp.weixin.qq.com/s/K4aL8oND7RW0mooNhusw 前言 既然已经学习了 Java 中的流程控制，接下来就来实际操作下，利用我们所学知识来解决实际的问题。 光学是没有用的，只有不断实践才能了解其中的真正含义。 闯关 第一关：打印折纸的次数 1. 题目 已知...</description>
       <category>Java 基础</category>
       <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
@@ -15704,7 +15349,618 @@ Java 中，分支结构相关的语句主要涉及到 <code>if</code> 和 <code>
 <p>扫一扫，探索另一个全新的世界。</p>
 <figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 ]]></content:encoded>
-      <enclosure url="https://cunyu1943.github.io/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
+    </item>
+    <item>
+      <title>static 和 final 小课堂</title>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20221203-oop-advance.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20221203-oop-advance.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">static 和 final 小课堂</source>
+      <description>共勉 不要哀求，学会争取。若是如此，终有所获。 前言 学习了面向对象的一些知识点后，在看别人的代码中经常会看到 static 和 final 两个关键字，那你知道它俩都是做什么用的么，使用的时候需要注意啥呢？ 今天的内容就来一起了解下，static 和 final 关键字的使用。 static 静态的意思，是 Java 中常用的修饰符，既可以用它来修饰...</description>
+      <category>Java 基础</category>
+      <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> static 和 final 小课堂</h1>
+<div class="hint-container info">
+<p class="hint-container-title">共勉</p>
+<p>不要哀求，学会争取。若是如此，终有所获。</p>
+</div>
+<h2> 前言</h2>
+<p>学习了面向对象的一些知识点后，在看别人的代码中经常会看到 <code>static</code> 和 <code>final</code> 两个关键字，那你知道它俩都是做什么用的么，使用的时候需要注意啥呢？</p>
+<p>今天的内容就来一起了解下，<code>static</code> 和 <code>final</code> 关键字的使用。</p>
+<h2> static</h2>
+<p>静态的意思，是 <code>Java</code> 中常用的修饰符，既可以用它来修饰成员变量，也可以用它来修饰成员方法。</p>
+<h3> 静态变量</h3>
+<p>静态变量就是用 <code>static</code> 来修饰的成员变量，最重要的特点就是一个类中的静态变量被类中的所有对象所共享。它不属于任何一个对象，而是属于类。其生命周期同类一样，共生共存，是优先于对象的。</p>
+<p>和成员变量不同的是，成员变量只能通过新建对象，然后用对象名来进行调用。而静态变量不仅仅可以用这种方式，还可以直接通过类名来进行调用，而这也是更为推荐的方式。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol>
+<li><strong>成员变量调用</strong></li>
+</ol>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol start="2">
+<li><strong>静态变量调用</strong></li>
+</ol>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 静态方法</h3>
+<p>静态方法就是类中用 <code>static</code> 来修饰的成员方法，一般用来修饰公共的工具类或者测试类。</p>
+<p>同样的，静态方法既可以用通过新建对象，然后用对象名来调用的方式，也可以直接通过类名来调用的方式，这也是更为推荐的方式。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 注意</h3>
+<p>使用 <code>static</code> 修饰方法或变量后，需要注意以下的小细节。</p>
+<ul>
+<li>一个静态方法中<strong>只能</strong>访问静态变量和其他的静态方法。而不能访问非静态的变量和方法。</li>
+<li>但一个非静态方法一方面既可以访问静态变量，也可以访问非静态变量；另一方面，也既可以访问静态方法，也可以访问非静态方法。</li>
+<li>不同于成员方法，静态方式中是不存在 <code>this</code> 关键字的。</li>
+</ul>
+<h3> 静态代码块</h3>
+<p>在代码中用 <code>static{}</code> 包裹起来的代码叫做静态代码块，它会随着类的加载而加载，而且会自动触发，只执行一次，一般用来对一些数据初始化。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> final</h2>
+<h3> 修饰变量</h3>
+<p>用 <code>final</code> 修饰的变量叫做常量，说明它只能被赋值一次。</p>
+<p>实际开发中，一般用常量来作为系统的配置信息，一方面既方便维护，另一方面又可以提高代码可读性。</p>
+<p>对常量进行命名时，一般遵循以下的规范：</p>
+<ul>
+<li>如果是单个单词，那么将它全部大写即可。</li>
+<li>如果是多个单词，那么将每个单词都大写，并且单词之间用下划线 <code>_</code> 隔开。</li>
+</ul>
+<p>此外，对于修饰的变量的类型不同，含义也是不一样的。</p>
+<p>如果修饰的变量是一个基本类型，那么表示的是该变量存储的<strong>数据值</strong>不可改变。而如果修饰的变量是一个引用类型，则表示该变量存储的<strong>地址值</strong>不能改变，但是对象内部是可以发生变化的。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 修饰方法</h3>
+<p>说明该方法是最终方法，不能再被重写。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 修饰类</h3>
+<p>说明这个类时最终类，不能够再被继承。也就是说，如果一个类被 <code>final</code> 所修饰，那么这个类不能作为其他任意类的福来。如果试图对一个用 <code>final</code> 修饰的类进行继承，则在编译期间可能会发生错误。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 总结</h2>
+<p>今天的内容到此就结束了，首先介绍了 <code>static</code> 用来修饰符变量和方法的应用场景，还额外补充了静态代码块相关的知识点。另外，我们也对 <code>final</code> 用来修饰变量、方法和类时的场景进行了回顾。</p>
+<p>码字不易，如果本文对你所有帮助，那就来个一键三连吧！</p>
+<h2> ⏳ 联系</h2>
+<p>想解锁更多知识？不妨关注我的微信公众号：<strong>村雨遥（id：JavaPark）</strong>。</p>
+<p>扫一扫，探索另一个全新的世界。</p>
+<figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
+    </item>
+    <item>
+      <title>抽象、接口和内部类</title>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20221211-abstract.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20221211-abstract.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">抽象、接口和内部类</source>
+      <description>共勉 不要哀求，学会争取。若是如此，终有所获。 抽象方法 定义 所谓抽象方法，就是将公共的行为（方法）抽取到一个父类后，由于每个子类中执行的内容是不一致的，所以父类中无法确认具体的方法体，此时就可以将该方法定义为抽象方法。 格式 要定义一个抽象方法，那么需要遵循以下的格式，要注意，抽象方法一般都是没有定义 以下是一个抽象方法定义的具体实例。 抽象类 定...</description>
+      <category>Java 基础</category>
+      <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 抽象、接口和内部类</h1>
+<div class="hint-container info">
+<p class="hint-container-title">共勉</p>
+<p>不要哀求，学会争取。若是如此，终有所获。</p>
+</div>
+<h2> 抽象方法</h2>
+<h3> 定义</h3>
+<p>所谓抽象方法，就是将公共的行为（方法）抽取到一个父类后，由于每个子类中执行的内容是不一致的，所以父类中无法确认具体的方法体，此时就可以将该方法定义为抽象方法。</p>
+<h3> 格式</h3>
+<p>要定义一个抽象方法，那么需要遵循以下的格式，要注意，抽象方法一般都是没有定义</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>以下是一个抽象方法定义的具体实例。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 抽象类</h2>
+<h3> 定义</h3>
+<p>知道了什么是抽象方法，那么抽象类就很简单了，如果我们发现一个类中存在着抽象方法，那么这个类一定要声明为抽象类。</p>
+<h3> 格式</h3>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 注意</h3>
+<ol>
+<li>抽象类不能实例化。</li>
+<li>抽象类中不一定有抽象方法，但有抽象方法的类一定是抽象类。</li>
+<li>抽象类中可以有构造方法。</li>
+<li>如果一个类的父类是抽象类，那么这个类要么是抽象类，要么重写父类中所有的抽象方法。</li>
+</ol>
+<h3> 作用</h3>
+<p>在抽取共性时，如果无法确定方法体，此时就可以将该方法定义为抽象方法。然后强制让子类按照某种格式重写。</p>
+<h2> 接口</h2>
+<h3> 定义</h3>
+<p>接口是一种规则，是对行为的抽象。</p>
+<h3> 格式</h3>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 注意</h3>
+<ol>
+<li>接口和抽象类一样，不能被实例化。</li>
+<li>接口和类之间是实现关系，通过关键字 <code>implements</code> 表示，实现格式为:</li>
+</ol>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol start="3">
+<li>如果一个类实现了某个接口，那么这个类要么是抽象类，要么就得重写接口中所有的抽象方法。</li>
+<li>不同于类单继承的特点，一个类是可以实现多个接口的。</li>
+</ol>
+<h3> 成员的特点</h3>
+<ol>
+<li><strong>成员变量</strong></li>
+</ol>
+<p>接口中，成员变量只能是常量，默认修饰符为 <code>public static final</code>。</p>
+<ol start="2">
+<li><strong>构造方法</strong></li>
+</ol>
+<p>接口中不存在构造方法。</p>
+<ol start="3">
+<li><strong>成员方法</strong></li>
+</ol>
+<p><code>JDK 7</code> 之前，只能是抽象方法，其默认修饰符为 <code>public abstract</code>。<code>JDK 8</code> 时，能够定义有方法体的方法，<code>JDK 9</code> 中，有带来了可以定义私有方法的特性。</p>
+<h3> 默认方法</h3>
+<p>自 <code>JDK 8</code> 之后，就允许在接口中定义默认方法，但是需要使用关键字 <code>default</code> 来修饰，从而解决接口升级的问题。</p>
+<p>接口中的<strong>默认方法</strong>的定义格式为：</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>使用默认方法时，需要注意：</p>
+<ul>
+<li>接口中的默认方法不是抽象方法，所以没有要求强制被重写。但如果要重写默认方法，重写时就需要去掉默认方法的关键字 <code>default</code>。</li>
+<li>默认方法中的权限空置房 <code>public</code> 可以省略不写，但关键字 <code>default</code> 不能省略。</li>
+<li>如果一个类实现了多个接口，而且着多个接口中还存在着重名的默认方法，那么该类就必须对重名的默认方法进行重写。</li>
+</ul>
+<p>以下是一个存在重名默认方法必须重写的实例。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 静态方法</h3>
+<p>除了默认方法，<code>JDK 8</code> 以后还可以在接口中定义静态方法，此时需要用关键字 <code>static</code> 修饰。</p>
+<p>接口中 <strong>静态方法</strong> 的定义格式为：</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>在接口中使用静态方法时，需要注意：</p>
+<ul>
+<li>静态方法只能通过接口名调用，不能通过实现接口的类名或者对象名来调用。</li>
+<li>权限控制符 <code>public</code> 可以省略，但关键字 <code>static</code> 不能省略。</li>
+</ul>
+<p>以下是一个在接口中定义静态方法和调用接口中静态方法的实例。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 私有方法</h3>
+<p>除了上述的静态方法和默认方法之外，<code>JDK 9</code> 中又引入接口中定义私有方法的特性。</p>
+<p>其中，接口中定义私有方法的格式如下：</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>两者的区别在于：静态的私有方法（带关键字 <code>static</code>）是为接口中的静态方法服务，而非静态的私有方法（不带关键字 <code>static</code>） 则是为接口中的默认方法服务。</p>
+<p>以下是在接口中定义私有方法的实例：</p>
+<ol>
+<li><strong>私有方法</strong></li>
+</ol>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol start="2">
+<li><strong>静态私有方法</strong></li>
+</ol>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 接口和类之间的关系</h3>
+<ol>
+<li><strong>类和类的关系</strong></li>
+</ol>
+<p>类与类之间只能存在继承关系，且只限于单继承，不能多继承，但是可以多层继承。</p>
+<ol start="2">
+<li><strong>类和接口的关系</strong></li>
+</ol>
+<p>类和接口之间是实现关系，既可以单实现，也可以多实现，还能在继承一个类的同时实现多个接口。</p>
+<ol start="3">
+<li><strong>接口和接口的关系</strong></li>
+</ol>
+<p>接口之间是继承关系，但不同于类和类之间的关系，接口之间既可以单继承，也可以多继承。</p>
+<h2> 内部类</h2>
+<h3> 定义</h3>
+<p>顾名思义，所谓内部类就是定义在类中的类。比如说在 <code>A</code> 类的内部定义了一个 <code>B</code> 类，那么我们就说 <code>B</code> 是内部类。其中 <code>B</code> 类表示的是 <code>A</code> 类的一部分，而且 <code>B</code> 类单独存在时没有任何意义。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 特点</h3>
+<p>如果一个类中定义了一个内部类，那么这个内部类就能够直接访问外部类的所有成员，包括私有成员。</p>
+<p>但是，如果一个外部类要访问内部类的成员，那么此时就必须创建对象。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 分类</h3>
+<p><code>Java</code> 中，内部类主要分为以下四种：</p>
+<ol>
+<li><strong>成员内部类</strong></li>
+<li><strong>静态内部类</strong></li>
+<li><strong>局部内部类</strong></li>
+<li><strong>匿名内部类</strong></li>
+</ol>
+<h4> 成员内部类</h4>
+<p>写在成员位置，属于外部类的成员，其中成员内部类也能够被常用的修饰符 <code>public、private、protected、static</code> 等所修饰。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>要想获取成员内部类对象，可以通过以下两种方式：</p>
+<ol>
+<li>在外部类中编写方法，然后对外提供内部类的对象。</li>
+</ol>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol start="2">
+<li>直接创建，创建格式为：<code>外部类名.内部类名 对象名 = 外部类对象.内部类对象</code>。</li>
+</ol>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h4> 静态内部类</h4>
+<p>静态内部类就是用关键字 <code>static</code> 修饰的内部类。静态内只能访问外部类中的静态变量和静态方法，如果要访问非静态的变量和方法就需要创建对象。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>创建静态内部类对象的格式为：<code>外部类名.内部类对象名 = new 外部类名.内部类名();</code></p>
+<p>调用非静态方法的格式：先创建对象，然后用对象调用。</p>
+<p>调用静态方法的格式：<code>外部类名.内部类名.方法名();</code></p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h4> 局部内部类</h4>
+<p>如果一个类被定义在方法中，那么这个类就叫做局部内部类。外界是无法直接使用局部内部类，需要在方法内部创建对象并使用。同时，这个内部类既可以访问外部类的成员，也可以访问方法中的局部变量。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h4> 匿名内部类</h4>
+<p>匿名内部类就是没有名字的内部类，也正因为名字，所以匿名内部类只能使用一次。而且使用匿名内部类还有个前提条件：必须继承一个父类或者实现一个接口。</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> ⏳ 联系</h2>
+<p>想解锁更多知识？不妨关注我的微信公众号：<strong>村雨遥（id：JavaPark）</strong>。</p>
+<p>扫一扫，探索另一个全新的世界。</p>
+<figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
+    </item>
+    <item>
+      <title>计算机软硬件</title>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20230920-cs-hard-soft.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20230920-cs-hard-soft.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">计算机软硬件</source>
+      <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 一、计算机组成 ⏳ 联系 想解锁更多知识？不妨关注我的微信公众号：村雨遥（id：JavaPark）。 扫一扫，探索另一个全新的世界。</description>
+      <category>Java 基础系列</category>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 计算机软硬件</h1>
+<div class="hint-container info">
+<p class="hint-container-title">共勉</p>
+<p>不要哀求，学会争取。若是如此，终有所获。</p>
+</div>
+<div class="hint-container tip">
+<p class="hint-container-title">原文</p>
+</div>
+<h2> 一、计算机组成</h2>
+<h2> ⏳ 联系</h2>
+<p>想解锁更多知识？不妨关注我的微信公众号：<strong>村雨遥（id：JavaPark）</strong>。</p>
+<p>扫一扫，探索另一个全新的世界。</p>
+<figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
+    </item>
+    <item>
+      <title>Java 简介</title>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20230921-intro.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20230921-intro.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Java 简介</source>
+      <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 一、前言 本章节中，主要介绍 Java 中的主要特性和发展历史。以及作为新手，日常学习中对 Java 语言的误解。 二、主要特性 1. 简单性 语法类似于 C++ 语言，方便大多程序开发者能够简单地学习和实践。此外，抛弃了 C++ 中复杂的语言特性，如操作符重载、多继承、自动强类型转换等，降低了程序...</description>
+      <category>Java 基础系列</category>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Java 简介</h1>
+<div class="hint-container info">
+<p class="hint-container-title">共勉</p>
+<p>不要哀求，学会争取。若是如此，终有所获。</p>
+</div>
+<div class="hint-container tip">
+<p class="hint-container-title">原文</p>
+</div>
+<h2> 一、前言</h2>
+<p>本章节中，主要介绍 <code>Java</code> 中的主要特性和发展历史。以及作为新手，日常学习中对 <code>Java</code> 语言的误解。</p>
+<h2> 二、主要特性</h2>
+<h3> 1. 简单性</h3>
+<p>语法类似于 <code>C++</code> 语言，方便大多程序开发者能够简单地学习和实践。此外，抛弃了 <code>C++</code> 中复杂的语言特性，如操作符重载、多继承、自动强类型转换等，降低了程序开发者上手难度。<code>Java</code> 中移除了指针的概念，也提供了内容空间的自动分配与回收，使得内存管理也更加方便。</p>
+<h3> 2. 面向对象</h3>
+<p>面向对象是一种程序设计技术，将重点从过程集中到对象和对象的接口上。<code>Java</code> 提供类、接口和集成等面向对象的特性，抛弃了类之间复杂的多继承，仅支持单继承，但同时支持接口的多继承。</p>
+<h3> 3. 分布式</h3>
+<p><code>Java</code> 拥有丰富的类库，可处理 <code>HTTP</code> 和 <code>FTP</code> 类的协议请求。因此，<code>Java</code> 能够访问和打开网络上的资源，开发网络应用。</p>
+<h3> 4. 健壮性</h3>
+<p><code>Java</code> 中，没有了 <code>C++</code> 中类的多继承、指针等概念。同时它的强类型机制、异常处理机制、垃圾回收机制等都为 <code>Java</code> 程序的健壮性提供了重要保障。</p>
+<h3> 5. 安全性</h3>
+<p>开发网络应用时，安全性十分重要。利用 <code>Java</code> 的诸多安全特性能够构建防病毒、防篡改系统。</p>
+<h3> 6. 体系结构中立</h3>
+<p><code>Java</code> 源代码经编译后成为字节码，字节码能够在实现了 <code>Java</code> 虚拟机的各种系统中运行，无视系统差异。</p>
+<h3> 7. 可移植性</h3>
+<p>正是由于 <code>Java</code> 的体系结构中立，才有了适合分发和高度可移植的特点。</p>
+<h3> 8. 解释型</h3>
+<p><code>Java</code> 经编译后形成字节码文件，然后由虚拟机来解释这些字节码并执行，因此说 <code>Java</code> 是一门解释型语言。</p>
+<h3> 9. 高性能</h3>
+<p>相比于其他编译型编程语言，<code>Java</code> 性能毋庸置疑，同时，引入即时编译器，其性能已经和 <code>C++</code> 相差不大，在某些场景下甚至更胜一筹。</p>
+<h3> 10. 多线程</h3>
+<p>大量请求的场景下，单线程的交互响应和实时行为变得十分缓慢。随着摩尔定律的终结，多线程的引入，无疑会带来更加快速的交互响应和实时行为，大大提升体验。</p>
+<h3> 11. 动态性</h3>
+<p>随着各种应用场景的不断涌现，<code>Java</code> 也在动态适应变化的环境。<code>Java</code> 中所需的类既能动态加载到内存中，也能通过网络来载入，也更有利于软件的迭代升级。</p>
+<h2> 三、发展简史</h2>
+<p>1990 年代初，<code>Sun</code> 公司的詹姆斯·高斯林等人为了实现电视机、电话、闹钟等家用电器的控制和通信，开发了一套用于设置在家用电器等小型系统中的编程语言。在当时，这门语言被命名为 <code>Oka</code>。但由于市场需求不高，所以该计划被逐渐放弃。</p>
+<p>随着 1990 年代互联网的发展，<code>Sun</code> 公司发现 <code>Oka</code> 语言在互联网中的应用前景广泛。于是决定对 <code>Oka</code> 进行改造，并在 1995 年 5 月以 <code>Java</code> 的名义正式发布。</p>
+<p>随着互联网的迅猛发展，Java 也得以逐渐成为重要的网络编程语言，詹姆斯·高斯林也被大家公认为 <code>Java</code> 之父。</p>
+<p>到了 2009 年， <code>Sun</code> 公司被 <code>Oracle</code> 公司所收购，自此 <code>Java</code> 成为 <code>Oracle</code> 公司的一大产品直至今日。</p>
+<p>以下是截止到本文写作时间 <code>Java</code> 的历史年表，累计经过了 21 次主要版本更新，目前来到了 <code>JDK</code> 21。不过虽然 <code>Java</code> 已经经历了这么多版本的更新，但国内目前用的最多的应该还是 <code>JDK</code> 1.8 版本。而出于对稳定性的考虑，企业开发更喜欢 <code>LTS</code> 版本，这也是为什么至今 <code>JDK</code> 1.8 还占有如此高的市场比例。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">版本</th>
+<th style="text-align:left">发布日期</th>
+<th style="text-align:left">主要事件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">JDK Beta</td>
+<td style="text-align:left">1995</td>
+<td style="text-align:left"><code>Java</code> 语言发布，用 <code>Java</code> 实现的浏览器和 <code>Java Applet</code> 被大量应用</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 1.0</td>
+<td style="text-align:left">1996 年 1 月</td>
+<td style="text-align:left">奠定了 <code>JDK</code>、<code>JRE</code>、<code>JVM</code> 的体系结构</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 1.1</td>
+<td style="text-align:left">1997 年 2 月</td>
+<td style="text-align:left">加入 <code>JIT</code>，提升 <code>JDK</code> 效率</td>
+</tr>
+<tr>
+<td style="text-align:left">J2SE 1.2</td>
+<td style="text-align:left">1998 年 12 月</td>
+<td style="text-align:left">确立 <code>J2SE</code>、<code>J2EE</code>、<code>J2ME</code> 产品结构</td>
+</tr>
+<tr>
+<td style="text-align:left">J2SE 1.3</td>
+<td style="text-align:left">2000 年 5 月</td>
+<td style="text-align:left">内置 <code>HotSpot JVM</code></td>
+</tr>
+<tr>
+<td style="text-align:left">J2SE 1.4</td>
+<td style="text-align:left">2002 年 2 月</td>
+<td style="text-align:left"><code>XML</code> 处理、断言、支持正则表达式</td>
+</tr>
+<tr>
+<td style="text-align:left">J2SE 5.0</td>
+<td style="text-align:left">2004 年 9 月</td>
+<td style="text-align:left">静态导入、泛型、<code>for-each</code> 循环、自动拆，装箱、枚举、可变参数</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 6</td>
+<td style="text-align:left">2006 年 12 月</td>
+<td style="text-align:left">提供动态语言支持、同步垃圾回收</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 7</td>
+<td style="text-align:left">2011 年 7 月</td>
+<td style="text-align:left">字符串的 <code>switch</code> 语句、多异常捕抓</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>JDK  8 (LTS)</strong></td>
+<td style="text-align:left">2014 年 3 月</td>
+<td style="text-align:left"><code>Lambda</code> 表达式</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 9</td>
+<td style="text-align:left">2017 年 9 月</td>
+<td style="text-align:left">轻量级 <code>json API</code>、垃圾收集机制更新</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 10</td>
+<td style="text-align:left">2018 年 3 月</td>
+<td style="text-align:left">局部变量类型推断，<code>Java</code> 后续版本快速迭代更新</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>JDK 11 (LTS)</strong></td>
+<td style="text-align:left">2018 年 9 月</td>
+<td style="text-align:left">常用类增强，<code>JDK</code> 11 是继 <code>JDK</code> 8 之后的首个长期支持本版</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 12</td>
+<td style="text-align:left">2019 年 3 月</td>
+<td style="text-align:left"><code>switch</code> 表达式增强</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 13</td>
+<td style="text-align:left">2019 年 9 月</td>
+<td style="text-align:left">文本块支持</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 14</td>
+<td style="text-align:left">2020 年 3 月</td>
+<td style="text-align:left"><code>instanceof</code> 支持模式匹配</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 15</td>
+<td style="text-align:left">2020 年 9 月</td>
+<td style="text-align:left"><code>EdDSA</code> 数字签名算法、 密封类、隐藏类</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 16</td>
+<td style="text-align:left">2021 年 3 月</td>
+<td style="text-align:left">启用 <code>C++ 14</code> 语言特性、向量 <code>API</code></td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>JDK 17 (LTS)</strong></td>
+<td style="text-align:left">2021 年 9 月</td>
+<td style="text-align:left">恢复总是严格的浮点语义、增强型伪随机数生成器</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 18</td>
+<td style="text-align:left">2022 年 3 月</td>
+<td style="text-align:left">默认 <code>UTF-8</code> 编码、代码片段、简单的网络服务器</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 19</td>
+<td style="text-align:left">2022 年 9 月</td>
+<td style="text-align:left">记录模式、外部函数与内存 <code>API</code>、<code>Linux</code>/<code>RISC-V</code> 移植、虚拟线程、结构化并发</td>
+</tr>
+<tr>
+<td style="text-align:left">JDK 20</td>
+<td style="text-align:left">2023 年 3 月</td>
+<td style="text-align:left">1. 作用域值<br>2. 记录模式<br>3. <code>switch</code> 模式匹配<br>4. 外部函数和内存 <code>API</code><br>5. 虚拟线程<br>6. 结构化并发<br>7. 向量 <code>API</code></td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>JDK 21（LTS）</strong></td>
+<td style="text-align:left">2023 年 9 月</td>
+<td style="text-align:left">1. 分代 <code>ZGC</code><br>2. 序列集合<br>3. 弃用 <code>Windows</code> 32 位 <code>x86</code><br>4. 密钥封装机制 <code>API</code><br>5. 字符串模板<br>6. 未命名类和实例主方法</td>
+</tr>
+</tbody>
+</table>
+<h2> 四、常见误解</h2>
+<h3> 1. JavaScript 是 Java 的子集</h3>
+<p>两个东西完全不沾边，<code>JavaScript</code> 是一种可以在网页中使用的脚本语言，而 <code>Java</code> 是完全的强类型语言，两者除了名字很像，其他方面可以说没有一点关系。</p>
+<h3> 2. Java 是解释型语言，所以效率较低</h3>
+<p>早期版本的 <code>Java</code> 的确是解释型的，但随着 <code>Java</code> 虚拟机中采用了即时编译器，其性能已经和 <code>C++</code> 相差不大，在某些场景下甚至更胜一筹。</p>
+<h2> ⏳ 联系</h2>
+<p>想解锁更多知识？不妨关注我的微信公众号：<strong>村雨遥（id：JavaPark）</strong>。</p>
+<p>扫一扫，探索另一个全新的世界。</p>
+<figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://zzdxy.github.io/zzdxy/zzdxy/contact/wechatpublic.svg =150x" type="image/"/>
+    </item>
+    <item>
+      <title>开发环境配置</title>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20230922-environment.html</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/20230922-environment.html</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">开发环境配置</source>
+      <description>共勉 不要哀求，学会争取。若是如此，终有所获。 原文 一、前言 学习完 Java 的主要特性、发展历程以及常见误解之后。本篇文章来学习，如何在当前主流操作系统下搭建 Java 开发环境，为接下来的开发做好准备。 二、Windows 环境配置 1. 安装 1. 首先进入 Oracle 官网 (https://www.oracle.com/java/tec...</description>
+      <category>Java 基础系列</category>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 开发环境配置</h1>
+<div class="hint-container info">
+<p class="hint-container-title">共勉</p>
+<p>不要哀求，学会争取。若是如此，终有所获。</p>
+</div>
+<div class="hint-container tip">
+<p class="hint-container-title">原文</p>
+</div>
+<h2> 一、前言</h2>
+<p>学习完 <code>Java</code> 的主要特性、发展历程以及常见误解之后。本篇文章来学习，如何在当前主流操作系统下搭建 <code>Java</code> 开发环境，为接下来的开发做好准备。</p>
+<h2> 二、Windows 环境配置</h2>
+<h3> 1. 安装</h3>
+<ol>
+<li>首先进入 <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank" rel="noopener noreferrer">Oracle 官网</a>，然后找到自己想要的 <code>JDK</code> 版本，这边以 <code>JDK</code> 11 为例。</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/jdk11.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="2">
+<li>点击 JDK Download 后，它会跳转到具体下载页面，然后根据自己的系统来进行选择，此处以 <code>Windows</code> 64 位系统为例。</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/download.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="3">
+<li>点击最后的链接后，它会让你同意协议，勾选同意，然后登陆你的 <code>Oracle</code> 账户即可开始下载，若是没有 <code>Oracle</code> 账户，点击下面的创建一个就可以了。</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/agree.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/login.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="4">
+<li>下载完成后，进行安装即可，安装流程和我们平常安装软件的一样，就再赘述，需要注意的是要记住如下的安装路径，因为一般我们都不会安装到默认路径，所以一定要记住你所安装到的路径，这关系到后续的配置步骤。</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/install-path.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> 2. 配置</h3>
+<p>好了，经过上面的配置，我们的 JDK 就已经安装好了，但是这个使用你是用不了的，我们还需要进一步的配置；</p>
+<p>打开系统属性来进行环境变量配置，打开系统属性并进行配置的方式如下：</p>
+<ol>
+<li><strong>Windows + R</strong> 快捷键组合唤醒 Windows 运行窗口，然后输入 <code>sysdm.cpl</code>，紧接着回车即可，一般会打开如下界面，然后点击最上方的 <strong>高级</strong>；</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/1695686767330.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="2">
+<li>点击高级后，就会打开如下界面，然后打开环境变量。</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/1695686806548.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="3">
+<li>新建环境变量 <strong>JAVA_HOME</strong>，然后变量值填入刚才安装 JDK 的路径（刚才提醒过要记住！）。</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/java-home.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="4">
+<li>编辑 <strong>Path</strong> 环境变量，然后新建一个变量值，填入如下内容：<code>%JAVA_HOME%\bin</code>。</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/path-bin.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="5">
+<li>各种确定，然后突出系统属性即可，到这一步，理论上我们的 JDK 就安装并配置成功了，接下来我们就去确认一下到底安装好了没有。</li>
+</ol>
+<h3> 3. 注意</h3>
+<p>自 <code>JDK</code> 11 之后，安装完成后就无需在配置环境变量，安装完成即可去验证是否安装成功。</p>
+<h3> 4. 验证</h3>
+<p>按照上述步骤操作完成之后，接下来就是验证了，一般我们可以通过如下三个命令来进行验证。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>打开命令控制台（<strong>Windows + R，然后输入 cmd 回车</strong>），然后输入如上三个命令，如果安装成功，一般是会出现如下内容的；</p>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/1695686544052.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/1695686583197.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/1695686620882.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> 三、macOS 环境配置</h2>
+<h3> 1. 安装</h3>
+<ol>
+<li>首先去 <a href="https://www.oracle.com/java/technologies/javase-jdk11-downloads.html" target="_blank" rel="noopener noreferrer">官网下载</a> 对应安装包。</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/macos-jdk.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="2">
+<li>
+<p>接受相关协议并登录下载。</p>
+</li>
+<li>
+<p>双击下载好的 <code>.dmg</code> 安装包，然后开始安装。</p>
+</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/install-macos.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="4">
+<li>安装过程中会让你输入密码，也就是你本机的密码。</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/pwd.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="5">
+<li>安装成功。</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/success.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> 2. 验证</h3>
+<p>不同于 <code>Windows</code>，<code>macOS</code> 下不用再手动配置环境变量了，它会给你自动配置好，我们只需要去验证即可；</p>
+<ol>
+<li>查看 <code>JDK</code> 版本。</li>
+</ol>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/macos-jdk-v.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="2">
+<li>编译命令。</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/macos-javac.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="3">
+<li>运行验证命令。</li>
+</ol>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/macos-java.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> 四、Linux 环境配置</h2>
+<h3> 1. 安装</h3>
+<ol>
+<li>先去 <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank" rel="noopener noreferrer">下载</a> 要安装的 <code>JDK</code> 版本，然后解压到本地存放的位置。</li>
+</ol>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/jdk-install.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/jdk-path.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> 2. 配置</h3>
+<p>打开配置文件 <code>/etc/profile</code>，然后加入如下内容；</p>
+<div class="language-profile line-numbers-mode" data-ext="profile"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/jdk-profile.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/profile-jdk.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> 3. 验证</h3>
+<p>安装和配置之后，在终端中输入如下命令进行验证是否成功。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/verify.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> 五、安装目录详解</h2>
+<p>安装好 <code>JDK</code> 之后，打开安装路径，通常情况下会有如下的目录结构，而各个模块的功能则如下表所示。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><table>
+<thead>
+<tr>
+<th>目录</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>bin</code></td>
+<td>用于存放各种工具命令，比如我们最常用的 <code>javac</code>、<code>java</code> 等</td>
+</tr>
+<tr>
+<td><code>lib</code></td>
+<td>存放工具的一些补充 <code>jar</code> 包</td>
+</tr>
+<tr>
+<td><code>conf</code></td>
+<td>存放相关配置文件</td>
+</tr>
+<tr>
+<td><code>include</code></td>
+<td>存放一些平台特定的头文件，比如 <code>Windows</code>、<code>macOS</code>、<code>Linux</code> 平台下这里的头文件是有所不同的</td>
+</tr>
+<tr>
+<td><code>legal</code></td>
+<td>存放各模块的授权文件</td>
+</tr>
+<tr>
+<td><code>jmods</code></td>
+<td>存放各种模块</td>
+</tr>
+<tr>
+<td><code>release</code></td>
+<td>版本发布内容以及版本信息</td>
+</tr>
+<tr>
+<td><code>README</code></td>
+<td><code>JDK</code> 信息</td>
+</tr>
+<tr>
+<td><code>LICENSE</code></td>
+<td>版权和签证相关的说明文档</td>
+</tr>
+</tbody>
+</table>
+<h2> 六、API 文档</h2>
+<p><code>API（Application Programming Interface）</code>，应用程序编程接口，是 <code>Java</code> 提供的基本编程接口。<code>Java</code> 语言提供了大量的基础类，为了给开发者提供相应的说明文档，于是便有了 <code>Java API</code> 文档。它类似于我们日常生活中的字典，如果遇到什么不认识的字，那么就可以去这里找。而对应到 <code>Java</code> 语言中，就是当我们遇到未使用过的基础类或方法，可以去 <code>Java API</code> 中寻找。</p>
+<p>为了方便大家，在这里贴出目前最常用的几个长期版本 <code>Java</code> 的在线阅读地址和离线下载地址，有需要的小伙伴可以自行去下载。</p>
+<p>温馨提示：这里无论是在线阅读还是离线下载后的文档，都是纯英文的。</p>
+<h3> 1. 在线阅读</h3>
+<ul>
+<li><strong><code>JDK 8 API</code></strong>：https://docs.oracle.com/javase/8/docs/api/index.html</li>
+<li><strong><code>JDK 11 API</code></strong>：https://docs.oracle.com/en/java/javase/11/docs/api/</li>
+<li><strong><code>JDK 17 API</code></strong>：https://docs.oracle.com/en/java/javase/17/docs/api/</li>
+<li><strong><code>JDK 21 API</code></strong>：https://docs.oracle.com/en/java/javase/21/docs/api/</li>
+</ul>
+<h3> 2. 离线下载</h3>
+<ul>
+<li><strong><code>JDK 8 API</code></strong>：https://www.oracle.com/java/technologies/javase-jdk8-doc-downloads.html</li>
+<li><strong><code>JDK 11 API</code></strong>：https://www.oracle.com/java/technologies/javase-jdk11-doc-downloads.html</li>
+<li><strong><code>JDK 17 API</code></strong>：https://www.oracle.com/java/technologies/javase-jdk17-doc-downloads.html</li>
+<li><strong><code>JDK 21 API</code></strong>：https://www.oracle.com/java/technologies/javase-jdk21-doc-downloads.html</li>
+</ul>
+<h2> ⏳ 联系</h2>
+<p>想解锁更多知识？不妨关注我的微信公众号：<strong>村雨遥（id：JavaPark）</strong>。</p>
+<p>扫一扫，探索另一个全新的世界。</p>
+<figure><img src="/contact/wechatpublic.svg" alt="" width="150" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://jsd.cdn.zzko.cn/gh/cunyu1943/JavaPark@main/src/java-tutorial/javase-series/assets/20220702-jdk-install-and-hello-world/jdk11.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Java 基础</title>
+      <link>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/</link>
+      <guid>https://zzdxy.github.io/zzdxy/zzdxy/java-tutorial/javase/</guid>
+      <source url="https://zzdxy.github.io/zzdxy/zzdxy/rss.xml">Java 基础</source>
+      <pubDate>Mon, 31 Mar 2025 04:12:26 GMT</pubDate>
     </item>
   </channel>
 </rss>

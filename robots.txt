@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://cunyu1943.github.io/zzdxy/sitemap.xml
+Sitemap: https://zzdxy.github.io/zzdxy/zzdxy/sitemap.xml
