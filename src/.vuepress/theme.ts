@@ -4,13 +4,13 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   breadcrumb: true,
-  hostname: "https://cunyu1943.github.io",
+  hostname: "https://zzdxy.github.io/zzdxy",
   sidebarSorter: ["date", "order", "filename", "title"],
 
   author: {
-    name: "村雨遥",
-    url: "https://cunyu1943.github.io",
-    email: "747731461@qq.com",
+    name: "挣扎的咸鱼",
+    url: "https://zzdxy.github.io/zzdxy",
+    email: "8698305@qq.com",
   },
 
   iconAssets: ["iconify", "fontawesome", "fontawesome-with-brands", "//at.alicdn.com/t/c/font_3871871_99xoxcxn6bo.css"],
@@ -45,7 +45,7 @@ export default hopeTheme({
   },
 
   // blog: {
-  //   name: "村雨遥",
+  //   name: "真正的信仰",
   //   avatar: "/logo.svg",
   //   description: "不要哀求，学会争取。若是如此，终有所获。",
   //   medias: {
@@ -103,7 +103,7 @@ export default hopeTheme({
               },
               {
                 text: "查看合辑",
-                link: "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&action=getalbum&album_id=2501145320567963650&scene=173&from_msgid=2247496990&from_itemidx=1&count=3&nolastread=1#wechat_redirect",
+                link: "https://aiyoja.github.io",
                 // type: "primary",
               }
             ],

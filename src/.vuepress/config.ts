@@ -7,8 +7,8 @@ export default defineUserConfig({
   base: "/zzdxy",
 
   lang: "zh-CN",
-  title: "JavaPark",
-  description: "分享编程学习（侧重 Java）、面试求职、计算机基础、效率工具等方面内容。",
+  title: "saltfish",
+  description: "分享编程学习、面试求职、计算机基础、效率工具等方面内容",
 
   theme,
 
@@ -35,11 +35,11 @@ export default defineUserConfig({
       // 已申请的博客 ID
       blogId: '19397-0379198090489-062',
       // 已申请的微信公众号名称
-      name: '村雨遥',
+      name: 'jiefav',
       // 已申请的微信公众号回复关键词
       keyword: '解锁',
       // 已申请的微信公众号二维码链接
-      qrcode: 'https://cunyu1943.github.io/contact/wechatpublic.svg',
+      qrcode: 'https://zzdxy.github.io/zzdxy/contact/wechatpublic.svg',
       // 文章内容的 JS 选择器，若使用的不是官方默认主题，则需要根据第三方的主题来设置
       selector: 'div.theme-hope-content',
       // 自定义的 JS 资源链接，可用于 CDN 加速
@@ -54,8 +54,8 @@ export default defineUserConfig({
 		
 		
 		// 排除 URL 以 `/fontend` 开头的文章
-      // 排除 URL 为 `/backend/python/io` 的文章
-      excludes: { strExp: ['/cs-wiki/*','/tutorial/*', '/program-language/*/io'] },
+      // 排除 URL 为 `/backend/python/io` 的文章  ,'/cs-wiki/*','/tutorial/*', '/program-language/*/io'
+      excludes: { strExp: ['/zzdxy/*','/*'] },
 		
 		
       reverse: false,

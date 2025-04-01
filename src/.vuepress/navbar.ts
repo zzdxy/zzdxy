@@ -127,7 +127,7 @@ export default navbar([
     text: "源码",
     icon: "iconfont icon-test",
     children: [
-      { text: "开源项目 - Github", icon: "fa-brands fa-github", link: "https://github.com/cunyu1943" },
+      { text: "开源项目 - Github", icon: "fa-brands fa-github", link: "https://github.com/zzdxy" },
     ],
   },
 
@@ -138,27 +138,27 @@ export default navbar([
       {
         text: "语雀",
         icon: "fa-solid fa-crow",
-        link: "https://yuque.com/cunyu1943"
+        link: "https://yuque.com/jiefav"
       },
       {
         text: "CSDN",
         icon: "iconfont icon-csdn",
-        link: "https://cunyu1943.blog.csdn.net"
+        link: "https://jiefav.blog.csdn.net"
       },
       {
         text: "掘金",
         icon: "iconfont icon-juejin",
-        link: "https://juejin.cn/user/747323637904519"
+        link: "https://juejin.cn/user/jiefav"
       },
       {
         text: "牛客",
         icon: "iconfont icon-nowcoder",
-        link: "https://www.nowcoder.com/users/806383223"
+        link: "https://www.nowcoder.com/users/jiefav"
       },
       {
         text: "知乎",
         icon: "iconfont icon-zhihu",
-        link: "https://www.zhihu.com/people/cunyu1943"
+        link: "https://www.zhihu.com/people/jiefav"
       }
     ],
   },
