@@ -1,18 +1,18 @@
-# 📖 JavaPark | Java 自学指南
+# 📖 挣扎的咸鱼 | Java 自学指南
 
 ## 项目简介
 
-- 👉 推荐 [语雀](https://yuque.com/cunyu1943) ｜ [Github 在线阅读](https://cunyu1943.github.io/) | [Gitee 在线阅读](https://cunyu1943.gitee.io/)，`Github` 访问较慢，所以部分资源可能会加载较慢。
+- 👉 推荐 [语雀](https://yuque.com/zzdxy) ｜ [Github 在线阅读](https://zzdxy.github.io/) | [Gitee 在线阅读](https://zzdxy.gitee.io/)，`Github` 访问较慢，所以部分资源可能会加载较慢。
 
-- 👉 项目同步维护：[语雀](https://yuque.com/cunyu1943/JavaPark)｜[Github](https://github.com/cunyu1943/JavaPark) | [Gitee](https://gitee.com/cunyu1943/JavaPark)
+- 👉 项目同步维护：[语雀](https://yuque.com/zzdxy/JavaPark)｜[Github](https://github.com/zzdxy/JavaPark) | [Gitee](https://gitee.com/zzdxy/JavaPark)
 
 - 👉 这里有 `Java` 学习保姆级教程、求职面试、计算机基础、编程语言、效率工具等诸多内容。
 
-- 👉 [『资源下载』](https://github.com/cunyu1943/ebooks)
+- 👉 [『资源下载』](https://github.com/zzdxy/ebooks)
 
-![](https://img.shields.io/github/followers/cunyu1943?label=Followers&logo=Github&color=red)![](https://img.shields.io/github/stars/cunyu1943/JavaPark?logo=Github&label=Stars&color=yellow)
-![](https://img.shields.io/github/forks/cunyu1943/JavaPark?logo=Github&label=Forks)
-![](https://img.shields.io/github/watchers/cunyu1943/JavaPark?label=Watchers&logo=Github&color=green)
+![](https://img.shields.io/github/followers/zzdxy?label=Followers&logo=Github&color=red)![](https://img.shields.io/github/stars/zzdxy/JavaPark?logo=Github&label=Stars&color=yellow)
+![](https://img.shields.io/github/forks/zzdxy/JavaPark?logo=Github&label=Forks)
+![](https://img.shields.io/github/watchers/zzdxy/JavaPark?label=Watchers&logo=Github&color=green)
 
 ## 一、Java
 
@@ -330,9 +330,9 @@
 
 ### 🧩 公众号
 
-[「公众号」](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyNTg2MjkzNw==&action=getalbum&album_id=2501145320567963650&scene=173&from_msgid=2247496866&from_itemidx=1&count=3&nolastread=1#wechat_redirect) 佛系更新，不过文章会优先发布在这里，除此之外，公众号上还会不定时有福利干货哦，但是这些内容不一定会同步到在线阅读网站！
+[「公众号」](https://mp.weixin.qq.com/mp/) 佛系更新，不过文章会优先发布在这里，除此之外，公众号上还会不定时有福利干货哦，但是这些内容不一定会同步到在线阅读网站！
 
-微信搜索 `JavaPark` 或者扫描下方二维码即可关注。防止错过最新消息推送，建议关注后加星标哦！
+微信搜索 `jiefav` 或者扫描下方二维码即可关注。防止错过最新消息推送，建议关注后加星标哦！
 
 <center>
 <img src="./src/.vuepress/public/contact/wechatpublic.svg" width="150px" />
@@ -342,11 +342,11 @@
 
 ## ✨ Star 趋势图
 
-> 🎈 [Github](https://github.com/cunyu1943/JavaPark) | [Gitee](https://gitee.com/cunyu1943/JavaPark)
+> 🎈 [Github](https://github.com/zzdxy/JavaPark) | [Gitee](https://gitee.com/zzdxy/JavaPark)
 
 如果您觉得本项目对您有所帮助，那就去 Github **Star** 收藏一下吧！
 
-<img src="https://api.star-history.com/svg?repos=cunyu1943/JavaPark&type=Date" width="50%"/>
+<img src="https://api.star-history.com/svg?repos=zzdxy/JavaPark&type=Date" width="50%"/>
 
 ## 赞助
 
@@ -356,6 +356,6 @@
 
 ## 🧑‍🤝‍🧑 参与贡献
 
-1.  如果您对本项目有任何建议或者发现文中内容有错误的，欢迎私信我或者提交 [`issues`](https://github.com/cunyu1943/JavaPark/issues) 指正。
+1.  如果您对本项目有任何建议或者发现文中内容有错误的，欢迎私信我或者提交 [`issues`](https://github.com/zzdxy/JavaPark/issues) 指正。
 
 2.  对于项目中未涉及到的知识点，欢迎提交 `PR`。

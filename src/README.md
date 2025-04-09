@@ -7,7 +7,7 @@ heroImage: /logo.svg
 # bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 # bgImageStyle:
 #   background-attachment: fixed
-heroText: JavaPark
+heroText: SaltFish
 tagline: 汇聚 Java 基础、框架、中间件、求职面试、计算机知识、编程语言、基础教程、效率工具…
 actions:
   - text: 发车 ➡️
@@ -53,6 +53,10 @@ features:
     icon: fa-solid fa-newspaper
     details: 记录每周有价值的信息
     link: /weekly/
+  - title: 编程分享
+    icon: fa-solid fa-newspaper
+    details: 分享实战经验
+    link: /weekly编程分享/
 ---
 
 ## 必看专栏
