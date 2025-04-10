@@ -10,4 +10,6 @@ export default sidebar({
   "/cs-wiki/": "structure",
   "/interview/": "structure",
   "/framework/": "structure",
+  "/编程分享/": "structure",
+  "/咸鱼/": "structure",
 });

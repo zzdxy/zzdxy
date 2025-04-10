@@ -116,6 +116,17 @@ export default navbar([
       },
     ]
   },
+  {
+    text: "编程分享",
+    icon: "iconfont icon-computer",
+    link: "/编程分享/"
+  },
+
+  {
+    text: "咸鱼",
+    icon: "iconfont icon-computer",
+    link: "/咸鱼/"
+  },
 
   {
     text: "关于",

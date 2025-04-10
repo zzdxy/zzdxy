@@ -49,14 +49,22 @@ features:
     icon: fa-solid fa-circle-question
     details: 回复常见疑问
     link: /QA/
+    
   - title: 好物周刊
     icon: fa-solid fa-newspaper
     details: 记录每周有价值的信息
     link: /weekly/
+  
   - title: 编程分享
     icon: fa-solid fa-newspaper
     details: 分享实战经验
-    link: /weekly编程分享/
+    link: /编程分享/
+
+  - title: 咸鱼
+    icon: fa-solid fa-newspaper
+    details: 记录每周有价值的信息
+    link: /咸鱼/
+
 ---
 
 ## 必看专栏
