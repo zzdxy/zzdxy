@@ -4,7 +4,7 @@
   <title>saltfish</title>
   <subtitle>分享编程学习、面试求职、计算机基础、效率工具等方面内容</subtitle>
   <icon>https://zzdxy.github.io/zzdxy/zzdxy/logo.svg</icon>
-  <updated>2025-04-01T03:55:55.344Z</updated>
+  <updated>2025-04-11T04:09:18.706Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://zzdxy.github.io/zzdxy/zzdxy/atom.xml"/>
   <link rel="alternate" href="https://zzdxy.github.io/zzdxy/zzdxy/"/>
@@ -25,7 +25,7 @@
     <title type="text"></title>
     <id>https://zzdxy.github.io/zzdxy/zzdxy/frontmatter.html</id>
     <link href="https://zzdxy.github.io/zzdxy/zzdxy/frontmatter.html"/>
-    <updated>2025-04-01T03:42:56.000Z</updated>
+    <updated>2025-04-10T08:39:51.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">共勉</p>
 <p>不要哀求，学会争取。若是如此，终有所获。</p>
@@ -55,7 +55,7 @@
     <title type="text">zzdxy | 编程知识公园 🔥</title>
     <id>https://zzdxy.github.io/zzdxy/zzdxy/guide.html</id>
     <link href="https://zzdxy.github.io/zzdxy/zzdxy/guide.html"/>
-    <updated>2025-04-01T03:42:56.000Z</updated>
+    <updated>2025-04-09T03:54:07.000Z</updated>
     <summary type="html"><![CDATA[<p>⏰ 在阅读本博客内容时，若遇到任何内容、代码、图片等有关错误，都可以提交 <strong>issues</strong> 或者 <strong>PR</strong> 的方式进行勘误反馈，我会陆续进行完善改进，感谢支持。</p>
 <ul>
 <li>issues: <code>https://github.com/zzdxy/zzdxy/issues</code></li>
@@ -82,7 +82,8 @@
 <h2> 六、编程语言</h2>
 <h2> 七、你问我答</h2>
 <h2> 八、好物周刊</h2>
-<h2> 九、关于</h2>
+<h2> 九、编程分享</h2>
+<h2> 十、关于</h2>
 ]]></content>
     <published>2025-03-31T04:12:26.000Z</published>
   </entry>
