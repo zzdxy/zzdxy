@@ -37,26 +37,126 @@ graph LR
 ## 二、产品详情链接
 
 
-莽山五指峰 纯玩一日游
-[莽山五指峰 纯玩一日游](https://a.xiumi.us/board/v5/3DruJ/588257610)
 
-东江湖+高椅岭 纯玩一日游(https://c.xiumi.us/board/v5/3DruJ/588265517)
 
-仰天湖 纯玩一日游(https://a.xiumi.us/board/v5/3DruJ/)
+![111.png](https://s2.loli.net/2024/12/28/QrK3qzeD8AiV5bk.png)
 
-五指峰+东江湖+高椅岭 二日游(https://a.xiumi.us/board/v5/3DruJ/588257610)
+---
 
-东江湖+高椅岭+白廊 纯玩二日游(https://a.xiumi.us/board/v5/3DruJ/588257610)
+[**莽山五指峰  纯玩一日游**](https://a.xiumi.us/board/v5/3DruJ/588257610)
 
-仰天湖+东江湖+高椅岭 纯玩二日游 （https://aiyoja.github.io/20241229/）
+[**东江湖+高椅岭  纯玩一日游**](https://v.xiumi.us/board/v5/3DruJ/588265517)
 
-仰天湖+东江湖+高椅岭+白廊 三日游
+[ **仰天湖  纯玩一日游**](https://v.xiumi.us/board/v5/3DruJ/587527859)
 
-东江湖+高椅岭+白廊+五指峰 三日游
+---
 
-仰天湖+东江湖+高椅岭+五指峰 三日游
 
-高椅岭+东江湖+白廊+五指峰+仰天湖 四日游
+[**五指峰+东江湖+高椅岭 二日游**](https://b.xiumi.us/board/v5/3DruJ/584469561)
+
+[**东江湖+高椅岭+白廊 纯玩二日游**](https://b.xiumi.us/board/v5/3DruJ/587240026)
+
+[**仰天湖+东江湖+高椅岭 纯玩二日游**](https://v.xiumi.us/board/v5/3DruJ/587258642)
+
+---
+
+[**仰天湖+东江湖+高椅岭+白廊 三日游**](https://v.xiumi.us/board/v5/3DruJ/587471502)
+
+[**东江湖+高椅岭+白廊+五指峰 三日游**](https://v.xiumi.us/board/v5/3DruJ/587495163)
+
+
+[**仰天湖+东江湖+高椅岭+五指峰 三日游**](https://v.xiumi.us/board/v5/3DruJ/587497435)
+
+---
+
+[**高椅岭+东江湖+白廊+五指峰+仰天湖 四日游**](https://v.xiumi.us/board/v5/3DruJ/587500516)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 一日游
+
+
+**莽山五指峰  纯玩一日游**
+![秋意浓，遇见莽山.jpg](https://s2.loli.net/2024/12/28/e6UEsYmxz7dSBkG.jpg)
+
+![网红郴州.jpg](https://s2.loli.net/2024/12/28/pMGymcRXQqhseav.jpg)
+
+![网红草原仰天湖-郴州.jpg](https://s2.loli.net/2024/12/28/YdpVo2ShBQE4xLO.jpg)
+
+
+
+### 二日游
+
+
+
+![东江湖+高椅岭+白廊郴州纯玩二日游.jpg](https://s2.loli.net/2024/12/28/CWQ5mF4r6fPnjNu.jpg)
+
+![仰天湖+东江湖+高椅岭郴州纯玩二日游.jpg](https://s2.loli.net/2024/12/28/Q7nTAsjoVWPLhmx.jpg)
+
+![五指峰+东江湖+高椅岭郴州纯玩二日游.jpg](https://s2.loli.net/2024/12/28/FacA3vNUkDQbSYt.jpg)
+
+
+
+### 三日游
+
+
+
+![东江湖+高椅岭+白廊+五指峰郴州纯玩三日游.jpg](https://s2.loli.net/2024/12/28/BueUfp3xLIidJDE.jpg)
+
+![仰天湖+东江湖+高椅岭+白廊郴州纯玩三日游.jpg](https://s2.loli.net/2024/12/28/TApDFZUJjXLye39.jpg)
+
+![五指峰+仰天湖+东江湖+高椅岭+郴州纯玩三日游.jpg](https://s2.loli.net/2024/12/28/ZToWjxbiyv9hKUM.jpg)
+
+
+
+### 四日游
+
+
+
+![郴州纯玩四日游.jpg](https://s2.loli.net/2024/12/28/NA4jEOy68fBc59k.jpg)
+
+
+
+
+![2024-12详细行程.png](https://s2.loli.net/2024/12/28/meZ4JCbyXw3zc1P.png)
+
+
+
+
+
+**扫码咨询**
+
+![微信图片_20241227153309.jpg](https://s2.loli.net/2024/12/28/yFPpd1HlG8IK2f9.jpg)
+
+
+
+
+
+**莽山五指峰  纯玩一日游**
+
+<iframe src="https://a.xiumi.us/board/v5/3DruJ/588257610" width="100%" height="600"></iframe>
+
+
+
+**东江湖+高椅岭  纯玩一日游**
+
+<iframe src="https://v.xiumi.us/board/v5/3DruJ/588265517" width="100%" height="600"></iframe>
 
 
 
