@@ -10,11 +10,19 @@ heroImage: /logo.svg
 heroText: SaltFish
 tagline: 汇聚 Java 基础、框架、中间件、求职面试、计算机知识、编程语言、基础教程、效率工具…
 actions:
-  - text: 发车 ➡️
+  - text: 目录 🏠
     link: /guide
     type: primary
 
-  - text: 电子书 📚
+  - text: 随记 📝™️
+    link: /咸鱼
+    type: primary
+
+  - text: blog 📆
+    link: https://aiyoja.github.io
+   
+
+  - text: 外站电子书 📚
     link: https://github.com/cunyu1943/ebooks
 
 # highlights:
@@ -61,7 +69,7 @@ features:
     link: /编程分享/
 
   - title: 咸鱼
-    icon: fa-solid fa-newspaper
+    icon: iconfont icon-fish
     details: 记录每周有价值的信息
     link: /咸鱼/
 
